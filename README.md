@@ -992,7 +992,166 @@
 
 ## Act 6
 
+### Lioneye's Watch
 
+- Have around 1750 Life
+
+- Get Res Capped
+
+- Go to The Twilight Strand
+
+### The Coast (40-50)
+
+- Go to The Mud Flats
+
+### The Mud Flats (41-51)
+
+- Kill The Dishonoured Queen
+  - Loot Eye of Conquest
+
+- Ding Level 42
+
+- Go to The Karui Fortress
+
+### The Karui Fortress (41-51)
+
+- Go to Tukohama's Keep
+
+- Kill Tukohama
+
+- Go to The Ridge
+
+### The Ridge (41-51)
+
+- Get Waypoint
+
+- Place Town Portal
+
+### Lioneye's Watch
+
+- Go to The Twilight Strand
+
+### The Twilight Strand (40-50)
+
+- Kill All Enemies
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Talk to Lilly Roth
+  - Take Book of Regret
+
+- Talk to Tarkleigh
+  - Get Book of Skill
+
+- Waypoint to The Ridge
+
+### The Ridge (41-51)
+
+- Ding Level 43
+
+- Go to The Lower Prison
+
+### The Lower Prison (42-52)
+
+- Do Trial of Ascendancy
+
+- Go to Shavronne's Tower
+
+### Shavronne's Tower (42-52)
+
+- Be Lightning Capped
+
+- Go to Prison Rooftop
+
+- Kill Shavronne
+
+- Go down stairs and get Crafting Recipe
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Talk to Tarkleigh
+  - Take a Helmet
+  
+- Waypoint to Prisoner's Gate
+
+### Prisoner's Gate (42-52)
+
+- Go into Valley of The Fire Drinker
+  - Kill The Cloven One
+
+- Go to The Western Forest
+
+### The Western Forest (42-54)
+
+- Ding Level 44
+
+- Go to The Riverways
+
+### The Riverways (42-54)
+
+- Get Waypoint
+
+- Go to The Wetlands
+
+### The Wetlands (42-54)
+
+- Go into The Spawning Ground
+  - Kill The Puppet Mistress
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Talk to Bestel
+  - Take Book of Skill
+
+- Talk to Tarkleigh
+  - Take Book of Skill
+
+- Waypoint to The Riverways
+
+### The Riverways (42-54)
+
+- Go to The Southern Forest
+
+### The Southern Forest (43-55)
+
+- Go to The Cavern of Anger
+
+### The Cavern of Anger (43-55)
+
+- Click Flag Chest
+  - Loot The Black Flag
+
+- Go to The Beacon
+
+### The Beacon (43-55)
+
+- Ding Level 45
+
+- Click Ignition Switch
+  - Click The Beacon
+  
+- Talk to Welam Roth
+  - Sail to The Brine King's Reef
+
+### The Brine King's Reef (44-56)
+
+- Be Cold and Lightning Capped
+
+- Go to The Brine King's Throne
+
+- Kill Tsoagoth, The Brine King
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Waypoint to The Bridge Encampment
 
 ## Act 7
 
