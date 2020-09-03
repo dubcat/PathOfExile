@@ -36,7 +36,8 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support
+- Caustic Arrow > Lesser Poison Support (For Clear)
+- Burning Arrow (For Single Target)
 
 ### The Coast (1-5)
 
@@ -77,12 +78,17 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
+  - Buy Puncture
 
 - Talk to Tarkleigh
   - Take Frostblink
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Waypoint to The Submerged Passage
+
+#### Gem Links
+
+- Swap Burning Arrow with Puncture
 
 ### The Submurged Passage (2-8)
 
@@ -166,7 +172,8 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support
+- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear)
+- Swap Frostblink with Smoke Mine
 
 ### Prisoner's Gate (7-13)
 
