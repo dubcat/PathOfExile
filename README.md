@@ -1341,11 +1341,405 @@
 
 ## Act 8
 
+### The Sarn Ramparts (49-61)
 
+- Go to The Sarn Encampment
+
+### The Sarn Encampment
+
+- Have around 1790 Life
+
+- Go to The Toxic Conduits
+
+### The Toxic Conduits (50-62)
+
+- Go to Doedre's Cesspool
+
+### Doedre's Cesspool (50-62)
+
+- Click Loose Grate
+  - Go to The Cauldron
+    - Kill Doedre the Vile
+
+- Go to Sewer Outlet
+
+- Go to The Quay
+
+### The Quay (51-63)
+
+- Click Sealed Casket
+  - Loot Ankh of Eternity
+
+- Go to Resurrection Site
+
+- Kill Tolman
+
+- Go to The Grain Gate
+
+### The Grain Gate (51-63)
+
+- Get Waypoint
+
+- Kill The Gemling Legion
+
+- Go to The Imperial Fields
+
+### The Imperial Fields (52-64)
+
+- Go to The Solaris Temple Level 1
+
+### The Solaris Temple Level 1 (53-65)
+
+- Get Waypoint
+
+- Go to The Solaris Temple Level 2
+
+### The Solaris Temple Level 2 (53-65)
+
+- Click Portal
+
+- Kill Dawn, Harbinger of Solaris
+  - Loot Sun Orb
+
+- Exit Server
+
+### The Sarn Encampment
+
+Talk to Maramoa
+  - Take Book of Skill
+
+Talk to Hargan
+  - Take Ring
+  
+Talk to Clarissa
+  - Take Book of Skill
+  
+- Waypoint to The Solaris Temple
+
+### The Solaris Temple Level 1 (53-65)
+
+- Go to The Solaris Concourse
+
+### The Solaris Concourse (52-64)
+
+- Go to The Harbour Bridge
+
+### The Harbour Bridge (54-66)
+
+- Go to The Lunaris Concourse
+
+### The Lunaris Concourse (52-64)
+
+- Get Waypoint
+
+- Go to The Lunaris Temple Level 1
+
+### The Lunaris Temple Level 1 (53-65)
+
+- Go to The Lunaris Temple Level 2
+
+### The Lunaris Temple Level 2 (53-65)
+
+- Click Portal
+
+- Kill Dusk, Harbinger of Lunaris
+  - Loot Moon Orb
+
+- Exit Server
+
+### The Sarn Encampment
+  
+- Waypoint to The Lunaris Concourse
+
+### The Lunaris Concourse (52-64)
+
+- Go to The Bath House
+
+### The Bath House (51-63)
+
+- Do Trial of Ascendancy
+
+- Go to The High Gardens
+
+### The High Gardens (53-65)
+
+- Go to The Pools of Terror
+  - Kill Yugul, Reflection of Terror
+
+- Exit Server
+
+### The Sarn Encampment
+
+- Waypoint to The Lunaris Concourse
+
+### The Lunaris Concourse (52-64)
+
+- Go to The Harbour Bridge
+
+### The Harbour Bridge (54-66)
+
+- Go to The Sky Shrine
+
+- Click Statue of the Sisters
+
+- Kill Solaris, Eternal Sun and Lunaris, Eternal Moon
+
+- Go to The Blood Aqueduct
 
 ## Act 9
 
+The Blood Aqueduct (55-67)
 
+- Go to Highgate
+
+### Highgate
+
+- Go to The Descent
+
+### The Descent (55-67)
+
+- Click Supply Hoist
+
+- Go to The Vastiri Desert
+
+### The Vastiri Desert (55-67)
+
+- Get Waypoint
+
+- Find the Sandstorm
+
+- Exit Server
+
+### Highgate
+
+- Talk to Sin
+
+- Talk to Petarus and Vanja
+
+- Waypoint to The Vastiri Desert
+
+### The Vastiri Desert (55-67)
+
+- Go to The Oasis
+
+### The Oasis (55-67)
+
+- Go to The Sand Pit
+  - Kill Shakari, Queen of the Sands
+  
+- Exit Server
+
+### Highgate
+
+- Talk to Irasha
+  - Take Book of Skill
+
+- Waypoint to The Vastiri Desert
+
+### The Vastiri Desert (55-67)
+
+- Go to The Foothills
+
+### The Foothills (56-68)
+
+- Get Waypoint
+
+- Go to The Boiling Lake
+
+### The Boiling Lake (56-68)
+
+- Kill The Basilisk
+  - Loot Basilisk Acid
+
+- Exit Server
+
+### Highgate
+
+- Waypoint to The Foothills
+
+### The Foothills (56-68)
+
+- Go to The Tunnel
+
+### The Tunnel (56-68)
+
+- Do Trial of Ascendancy
+
+- Go to The Quarry
+
+### The Quarry (57-69)
+
+- Get Waypoint
+
+- Go to The Refinery
+
+### The Refinery (57-69)
+
+- Kill General Adus
+
+- Click Theurgic Precipitate Machine
+  - Loot Trarthan Powder
+
+- Exit Server
+
+### Highgate
+
+- Waypoint to The Quarry
+
+### The Quarry (57-69)
+
+- Go to Shrine of the Winds
+  - Kill Kira
+    - Loot Sekhema Feather
+
+- Exit Server
+
+### Highgate
+
+- Talk to Irasha
+  - Take Book of Skill
+
+- Waypoint to The Quarry
+
+### The Quarry (57-69)
+
+- Talk to Sin
+  - Go to The Belly of the Beast
+
+### The Belly of the Beast (57-69)
+
+- Go to The Rotting Core
+
+### The Rotting Core (57-71)
+
+- Go to The Black Core
+
+- Talk to Sin
+
+- Kill The 3 Spirits
+
+- Talk to Sin
+
+- Go to The Black Hearth
+
+- Kill The Depraved Trinity
+
+- Exit Server
+
+### Highgate
+
+- Waypoint to Oriath Docks
 
 ## Act 10
 
+### Oriath Docks
+
+- Have around 2150 Life
+
+- Go to The Cathedral Rooftop
+
+### The Cathedral Rooftop (57-71)
+
+- Go to Cathedral Apex
+  - Kill Kitava's Cultists
+
+- Talk to Bannon
+
+- Go to The Cathedral Rooftop
+
+- Go to The Ravaged Square
+
+### The Ravaged Square (57-71)
+
+- Go to The Control Blocks (Down/Left)
+
+### The Control Blocks (59-73)
+
+- Get Waypoint
+
+- Go to Arena
+
+- Kill Vilenta
+
+- Exit Server
+
+### Oriath Docks
+
+- Talk to Lani
+  - Take Flask
+  - Take Book of Skill
+
+- Waypoint to The Control Blocks
+
+### The Control Blocks (59-73)
+
+- Go to The Ravaged Square
+
+### The Ravaged Square (57-71)
+
+- Get Waypoint (Up/Right)
+
+- Go to The Ossuary
+
+### The Ossuary (60-74)
+
+- Go to The Bone Pits
+
+- Do Trial of Ascendancy
+
+- Exit Server
+
+### Oriath Docks
+
+- Waypoint to The Ravaged Square
+
+### The Ravaged Square (57-71)
+
+- Go to The Torched Courts (Up/Right)
+
+### The Torched Courts (58-72)
+
+- Go to The Desecrated Chambers
+
+### The Desecrated Chambers (58-72)
+
+- Go to The Sanctum of Innocence
+
+### The Sanctum of Innocence (58-72)
+
+- Kill Avarius, Reassembled
+
+- Loot The Staff of Purity
+
+- Exit Server
+
+### Oriath Docks
+
+- Talk to Bannon
+
+- Waypoint to The Ravaged Square
+
+### The Ravaged Square (57-71)
+
+- Talk to Innocence
+
+- Go to The Canals
+
+### The Feeding Trough (60-74)
+
+- Go to The Feeding Trough
+
+### The Feeding Trough (60-74)
+
+- Talk to Sin
+
+- Go to Altar of Hunger
+
+- Kill Kitava
+
+- Click Portal
+
+### Oriath Docks
+
+- Talk to Lani
+  - Get Book of Skill
