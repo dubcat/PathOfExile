@@ -346,6 +346,7 @@
 - Talk to Silk
 
 - Talk to Yeena
+  - Buy Controlled Destruction Support
   
 - Waypoint to The Crossroads
 
@@ -517,7 +518,7 @@
 
 - Spellslinger > Bane > Void Manipulation Support | (B-B-G)
 
-- Frenzy | (G)
+- Frenzy | (G) | Never Level, keep at Level 1
 
 ### The Slum (20-28)
 
@@ -610,7 +611,7 @@
 
 - Get Waypoint
 
-- Kill General Gravivius
+- Kill General Gravicius
 
 - Go to The Lunaris Temple Level 1
 
@@ -640,11 +641,18 @@
   - Get Book of Skill
 
 - Talk to Maramoa
+  - Take Soulrend
 
 - Talk to Hargan
   - Book of Skill
 
 - Waypoint to The Ebony Barracks
+
+#### Gem Links
+
+- Swap Bane with Soulrend | (B)
+
+- Unlink Despair from Spellslinger | (B)
 
 ### The Ebony Barracks (25-33)
 
@@ -656,9 +664,9 @@
 
 - Do Trial of Ascendancy
 
-- Go to The Library (Optional)
+- Go to The Library
 
-### The Library (30) (26-34) | (Optional)
+### The Library (30) (26-34)
 
 - Get Waypoint
 
@@ -667,25 +675,33 @@
 - Click Loose Candle
   - Go to The Archives
   
-### The Archives (31) (27-35) | (Optional)
+### The Archives (31) (27-35)
 
 - Click 4x Book Stand
   - Loot 4x Golden Page
   
 - Exit Server
 
-### The Sarn Encampment | (Optional)
+### The Sarn Encampment
 
 - Go to Stash
-  - Take Currency
+  - Take 2x Orb of Chance
+  - Take 1x Orb of Transmutation
   
 - Waypoint to The Library
 
-### The Library (30) (26-34) | (Optional)
+### The Library (30) (26-34)
 
 - Talk to Siosa
+  - Buy 2x Efficacy
+  - Buy Spell Totem
 
 - Waypoint to The Sarn Encampment
+
+#### Gem Links
+
+- Spellslinger > Soulrend > Void Manipulation > Efficacy | (B-B-G-B)
+- Spellslinger > Essence Drain > Void Manipulation > Controlled Destruction | (B-B-G-B)
 
 ### The Sarn Encampment
 
@@ -868,13 +884,14 @@
 
 ### Highgate
 
-- Talk to Petarus and Vanja
- 
-- Talk to Dialla
-  
-- Talk to Oyun
+- Talk to Lady Dialla
+  - Take Increased Area of Effect
 
 - Go to The Ascent
+
+#### Gem Links
+
+- Spellslinger > Contagion > Increased Area of Effect | (B-B-B)
 
 ## Act 5
 
