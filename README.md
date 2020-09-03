@@ -1761,6 +1761,8 @@ The Blood Aqueduct (55-67)
 
 - Click Portal
 
+## Oriath
+
 ### Oriath
 
 - Talk to Lani
