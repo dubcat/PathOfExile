@@ -237,3 +237,221 @@
 - Go to Southern Forest
 
 ## Act 2
+
+### The Southern Forest (10-16)
+
+- Go to The Forest Encampment
+
+### The Forest Encampment
+
+- Have around 350 Life
+
+- Go to The Old Fields
+
+### The Old Fields (11-17)
+
+- Place a Town Portal near The Den
+
+- Go to The Crossroads
+
+### The Crossroads (12-18)
+
+- Get Waypoint
+
+- Waypoint to The Forest Encampment
+
+### The Forest Encampment
+
+- Enter Portal to The Old Fields
+
+### The Old Fields (11-17)
+
+- Go to The Den
+
+### The Den (12-18)
+
+- Kill The Great White Beast
+
+- Exit Server
+
+### The Forest Encampment
+
+- Talk to Yeena
+  - Take Quick Silver Flask
+
+- Waypoint to The Crossroads
+
+### The Crossroads (12-18)
+
+- Ding Level 14
+
+- Go to The Chamber of Sins 1
+
+### The Chamber of Sins 1 (12-18)
+
+- Go to The Chamber of Sins 2
+
+### The Camber of Sins 2 (12-20)
+
+- Do Trial of Ascendancy
+
+- Ding Level 15
+
+- Kill Fidelitas
+
+- Click Strange Device
+  - Pick up Baleful Gem
+
+- Exit Server
+
+### The Forest Encampment
+
+- Talk to Greust
+  - Buy Herald of Thunder
+
+- Waypoint to The Crossroads
+
+### The Riverways (12-18)
+
+- Get Waypoint
+
+- Go to The Western Forest
+
+### The Western Forest (13-21)
+
+- Get Waypoint
+
+- Ding Level 16
+
+- Go to Weaver's Chambers
+
+### The Weaver's Chambers (14-22)
+
+- Go to The Weaver's Nest
+
+- Kill The Weaver
+  - Loot Maligaro's Spike
+
+- Exit Server
+
+### The Forest Encampment
+
+- Talk to Silk
+
+- Talk to Yeena
+  
+- Waypoint to The Crossroads
+
+### The Crossroads (12-18)
+
+- Go to The Fellshrine Ruins
+
+### The Fellshrine Ruins (12-20)
+
+- Go to The Crypt Level 1
+
+### The Crypt Level 1 (13-21)
+
+- Do Trial of Ascendancy
+
+- Exit Server
+
+### The Forest Encampment
+
+- Waypoint to The Crossroads
+
+### The Crossroads (12-18)
+
+- Go to The Broken Bridge
+
+### The Broken Bridge (12-20)
+
+- Kill Kraityn
+
+- Exit Server
+
+### The Forest Encampment
+
+- Waypoint to The Riverways
+
+### The Riverways (12-18)
+
+- Go to The Wetlands
+
+### The Wetlands (15-23)
+
+- Kill Oak
+
+- Get Waypoint
+
+- Click Tree Roots
+
+- Ding Level 17
+
+- Go to The Vaal Ruins
+
+### The Vaal Ruins (16-24)
+
+- Click Ancient Seal
+
+- Ding Level 18
+
+- Go to The Northern Forest
+
+### The Northern Forest (17-25)
+
+- Ding Level 19
+
+- Go to The Caverns
+
+### The Caverns (18-26)
+
+- Waypoint to The Western Forest
+
+### The Western Forest (13-21)
+
+- Kill Alira
+
+- Kill Captain Arteri
+  - Loot Thaumetic Emblem
+
+- Click Thaumetic Seal
+
+- Exit server
+
+### The Forest Encampment
+
+- Talk to Eramir
+  - Get 2 Passive Points
+  - Get The Apex
+
+- Waypoint to Lioneye's Watch
+
+### Lioneye's Watch
+
+- Talk to Bestel
+  - Take Book of Skill
+
+- Waypoint to The Caverns
+
+### The Caverns (18-26)
+
+- Ding Level 20
+
+- Go to The Ancient Pyramid
+
+### The Ancient Pyramid (19-27)
+
+- Ding Level 21
+
+- Be Cold and Lightning Capped
+
+- Go to Pyramid Apex
+
+- Kill Vaal Oversoul
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Waypoint to The City of Sarn
