@@ -82,6 +82,8 @@
   - Buy Puncture
   - Buy Contagion
 
+   2x Life | Quicksilver | 2x Mana
+
 - Talk to Tarkleigh
   - Take Frostblink
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
@@ -284,8 +286,10 @@
 ### The Forest Encampment
 
 - Talk to Yeena
-  - Take Quick Silver Flask
+ - Take Quicksilver Flask
 
+   2x Life | 2x Quicksilver | Mana
+  
 - Waypoint to The Crossroads
 
 ### The Crossroads (12-18)
@@ -960,6 +964,9 @@
 
 - Talk to Lani
   - Take Spreading Rot Jewel
+  - Take Stibnite Flask
+  
+   2x Life | 2x Quicksilver | Stibnite
   
 - Talk to Vilenta 
   - Take Book of Skill
@@ -1236,7 +1243,7 @@
 ### The Bridge Encampment
 
 - Talk to Weylam Roth
-  - Take ?? Flask
+  - Take Jade Flask
 
 - Waypoint to The Crossroads
 
@@ -1709,7 +1716,7 @@ The Blood Aqueduct (55-67)
 ### Oriath Docks
 
 - Talk to Lani
-  - Take ??? Flask
+  - Take ???? Flask
   - Take Book of Skill
 
 - Waypoint to The Control Blocks
