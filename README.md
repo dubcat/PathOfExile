@@ -704,6 +704,8 @@
 
 ### The Aqueduct (28-38)
 
+- Ding Level 31
+
 - Go to Highgate
 
 ### Highgate
@@ -722,8 +724,7 @@
 ### Highgate
 
 - Click Deshret's Seal
-
-- Go to The Mines
+  - Go to The Mines
 
 ### The Mines Level 1 (29-39)
 
@@ -733,13 +734,13 @@
 
 - Click Deshret's Spirit
 
+- Ding Level 32
+
 - Go to The Crystal Veins
 
 ### The Crystal Veins (31-41)
 
 - Get Waypoint
-
-- Do The Labyrinth
 
 - Go to Daresso's Dream
 
@@ -749,7 +750,21 @@
 
 ### The Grand Arena (33-43)
 
-- Waypoint to The Crystal Veins
+- Ding Level 33
+
+- Be Cold Capped
+
+- Kill Daresso, King of Swords
+  - Loot The Eye of Desire
+
+- Exit Server
+
+### Highgate
+
+- Talk to Tasuni
+  - Take Book of Skill
+
+- Waypoint to The Crystal Vein
 
 ### The Crystal Veins (31-41)
 
@@ -761,28 +776,12 @@
 
 ### Kaom's Stronghold (33-43)
 
+- Ding Level 34
+
 - Be Fire Capped
 
 - Kill King Kaom
-
-- Loot The Eye of Fury
-
-- Exit Server
-
-### Highgate
-
-- Talk to Tasuni
-  - Take Book of Skill
-
-- Waypoint to The Grand Arena
-
-### The Grand Arena (33-43)
-
-- Be Cold Capped
-
-- Kill Daresso
-
-- Loot The Eye of Desire
+  - Loot The Eye of Fury
 
 - Exit Server
 
@@ -802,9 +801,10 @@
 
 ### The Belly of the Beast Level 2 (34-44)
 
-- Kill Piety
+- Ding Level 35
 
-- Talk to Piety
+- Kill Piety
+  - Talk to Piety
 
 - Go to The Harvest
 
@@ -812,11 +812,11 @@
 
 - Get Waypoint
  
-- Go Right Up
+- Go Right/Up
   - Kill Mini Boss
   - Loot Body Part
 
-- Town Teleport
+- Town Portal
 
 ### Highgate
 
@@ -824,11 +824,11 @@
 
 ### The Harvest (35-45)
 
-- Go Left Down
+- Go Left/Up
   - Kill Mini Boss
   - Loot Body Part
   
-- Go Left Up
+- Go Left/Down
   - Kill Mini Boss
   - Loot Body Part
 
@@ -845,13 +845,10 @@
 ### Highgate
 
 - Talk to Petarus and Vanja
-  - Buy Cast When Damage Taken
  
 - Talk to Dialla
-  - Take Increased Area of Effect
   
 - Talk to Oyun
-  - Take Random Gem
 
 - Go to The Ascent
 
