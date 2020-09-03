@@ -641,7 +641,7 @@
 
 - Go to The Library (Optional)
 
-### The Library (30) (26-34)
+### The Library (30) (26-34) | (Optional)
 
 - Get Waypoint
 
@@ -650,26 +650,23 @@
 - Click Loose Candle
   - Go to The Archives
   
-### The Archives (31) (27-35)
+### The Archives (31) (27-35) | (Optional)
 
 - Click 4x Book Stand
   - Loot 4x Golden Page
   
 - Exit Server
 
-### The Sarn Encampment
+### The Sarn Encampment | (Optional)
 
 - Go to Stash
   - Take Currency
   
 - Waypoint to The Library
 
-### The Library (30) (26-34)
+### The Library (30) (26-34) | (Optional)
 
 - Talk to Siosa
-
-- Go to Aspirants Plaza
-  - Do The Labyrinth
 
 - Waypoint to The Sarn Encampment
 
@@ -677,7 +674,9 @@
 - Go to Aspirants Plaza
 
 ### Aspirants Plaza
-- Do The Labyrinth
+- Check www.poelab.com for layout
+
+- Do The Labyrinth (Normal)
 
 ### The Sarn Encampment
 - Waypoint to The Imperial Garden
@@ -689,7 +688,7 @@
   
 ### The Sceptre of God (27-37)
 
-- Ding Level 29
+- Ding Level 30
 
 - Be Cold and Lightning Capped
 
@@ -703,7 +702,158 @@
 
 ## Act 4
 
+### The Aqueduct (28-38)
 
+- Go to Highgate
+
+### Highgate
+
+- Have around 950 Life
+
+- Go to The Dried Lake
+
+### The Dried Lake (29-39)
+
+- Kill Voll, Emperor of Purity
+  - Loot Deshret's Banner
+
+- Exit Server
+
+### Highgate
+
+- Click Deshret's Seal
+
+- Go to The Mines
+
+### The Mines Level 1 (29-39)
+
+- Go to The Mines Level 2
+
+### The Mines Level 2 (30-40)
+
+- Click Deshret's Spirit
+
+- Go to The Crystal Veins
+
+### The Crystal Veins (31-41)
+
+- Get Waypoint
+
+- Do The Labyrinth
+
+- Go to Daresso's Dream
+
+### Daresso's Dream (32-42)
+
+- Go to The Grand Arena
+
+### The Grand Arena (33-43)
+
+- Waypoint to The Crystal Veins
+
+### The Crystal Veins (31-41)
+
+- Go to The Kaom's Dream
+
+### Kaom's Dream (32-42)
+
+- Go to Kaom's Stronghold
+
+### Kaom's Stronghold (33-43)
+
+- Be Fire Capped
+
+- Kill King Kaom
+
+- Loot The Eye of Fury
+
+- Exit Server
+
+### Highgate
+
+- Talk to Tasuni
+  - Take Book of Skill
+
+- Waypoint to The Grand Arena
+
+### The Grand Arena (33-43)
+
+- Be Cold Capped
+
+- Kill Daresso
+
+- Loot The Eye of Desire
+
+- Exit Server
+
+### Highgate
+
+- Waypoint to The Crystal Veins
+
+### The Crystal Veins (31-41)
+
+- Talk to Lady Dialla
+
+- Go to The Belly of The Beast
+
+### The Belly of the Beast Level 1 (33-43)
+
+- Go to The Belly of the Beast Level 2
+
+### The Belly of the Beast Level 2 (34-44)
+
+- Kill Piety
+
+- Talk to Piety
+
+- Go to The Harvest
+
+### The Harvest (35-45)
+
+- Get Waypoint
+ 
+- Go Right Up
+  - Kill Mini Boss
+  - Loot Body Part
+
+- Town Teleport
+
+### Highgate
+
+- Waypoint to The Harvest
+
+### The Harvest (35-45)
+
+- Go Left Down
+  - Kill Mini Boss
+  - Loot Body Part
+  
+- Go Left Up
+  - Kill Mini Boss
+  - Loot Body Part
+
+- Be Fire Capped
+
+- Talk to Piety
+
+- Enter The Black Core
+
+- Kill Malachai, The Nightmare
+
+- Exit Server
+
+### Highgate
+
+- Talk to Petarus and Vanja
+  - Buy Cast When Damage Taken
+ 
+- Talk to Dialla
+  - Take Increased Area of Effect
+  
+- Talk to Oyun
+  - Take Random Gem
+
+- Go to The Ascent
 
 ## Act 5
 
