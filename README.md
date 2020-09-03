@@ -854,7 +854,141 @@
 
 ## Act 5
 
+### The Ascent (35-45)
 
+- Ding Level 36
+
+- Click Lever
+  - Click Oriath Portal
+
+- Go to The Slave Pens
+
+### The Slave Pens (36-46)
+
+- Kill Overseer Krow
+
+- Go to Overseer's Tower
+
+### Overseer's Tower
+
+- Have around 1350 Life
+
+- Go to The Control Blocks
+
+### The Control Blocks (36-46)
+
+- Click Experimental Supplies
+  - Loot Miasmeter
+
+- Kill Justicar Casticus
+  - Loot Eye of Zeal
+
+- Ding Level 37
+
+- Go to Oriath Square
+
+### Oriath Square (37-47)
+
+- Click Templar Courts Entrance
+  - Go to The Templar Courts
+
+### The Templar Courts (37-47)
+
+- Ding Level 38
+
+- Go to The Chamber of Innocence
+
+### The Chamber of Innocence (38-48)
+
+- Get Waypoint
+
+- Ding Level 40
+
+- Be Fire Capped
+
+- Go to Sanctum of Innocence
+
+- Kill High Templar Avarius
+  - Kill Innocence, God-Emperor of Eternity
+
+- Go to The Chamber of Innocence
+
+- Waypoint to Overseers Tower
+
+### Overseer's Tower
+
+- Talk to Lani
+  - Take Spreading Rot Jewel
+  
+- Talk to Vilenta 
+  - Take Book of Skill
+
+- Waypoint to The Chamber of Innocence
+
+### The Chamber of Innocence (38-48)
+
+- Go to The Torched Courts
+
+### The Torched Courts (39-49)
+
+- Go to The Ruined Square
+
+### The Ruined Square (39-49)
+
+- Get Waypoint (To the Left)
+
+- Go to The Ossuary
+
+### The Ossuary (39-49)
+
+- Click Tomb of the First Templar
+  - Loot Sign of Purity
+
+- Exit Server
+
+### Overseer's Tower
+
+- Waypoint to The Ruined Square
+
+### The Ruined Square (39-49)
+
+- Place a Town Portal near The Cathredral Rooftop (Left Side)
+
+- Go to The Reliquary (Bottom Right)
+
+### The Reliquary (39-49)
+
+- Get Waypoint
+
+- Click 3x Karui Relic Case
+  - Loot 3x Kitava's Torments
+
+- Ding Level 41
+
+- Waypoint to Overseer's Tower
+
+### Overseer's Tower
+
+- Talk to Lani
+  - Take Book of Skill
+
+- Go into Town Portal
+
+### The Ruined Square (39-49)
+
+- Go to The Cathedral Rooftop
+
+### The Cathedral Rooftop (40-50)
+
+- Be Fire Capped
+
+- Go to The Cathedral Apex
+
+- Click Cradle of Purity
+  - Kill Kitava
+
+- Talk to Lilly Roth
+  - Sail to Wraeclast
 
 ## Act 6
 
