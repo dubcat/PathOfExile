@@ -671,14 +671,19 @@
 - Waypoint to The Sarn Encampment
 
 ### The Sarn Encampment
+
 - Go to Aspirants Plaza
 
 ### Aspirants Plaza
+
 - Check www.poelab.com for layout
 
-- Do The Labyrinth (Normal)
+- Do The Labyrinth
+
+- Return to Town
 
 ### The Sarn Encampment
+
 - Waypoint to The Imperial Garden
 
 ### The Imperial Garden (26-34)
@@ -996,7 +1001,7 @@
 
 - Have around 1750 Life
 
-- Get Res Capped
+- Get Resistance Capped
 
 - Go to The Twilight Strand
 
@@ -1155,7 +1160,184 @@
 
 ## Act 7
 
+### The Bridge Encampment
 
+- Have around 1200 Life
+
+- Go to The Broken Bridge
+
+### The Broken Bridge (44-56)
+
+- Click Dirty Lockbox
+  - Silver Locket
+
+- Go to The Crossroads
+
+### The Crossroads (45-57)
+
+- Get Waypoint
+
+- Go to The Fellshrine Ruins
+
+### The Fellshrine Ruins (45-57)
+
+- Ding Level 46
+
+- Go to The Crypt
+
+### The Crypt (45-57)
+
+- Do Trial of Ascendancy
+
+- Click Sarcophagus
+  - Go down Stairs
+
+- Click Container of Sins
+  - Loot Maligaro's Map
+
+- Exit Server
+
+### The Bridge Encampment
+
+- Talk to Weylam Roth
+  - Take ?? Flask
+
+- Waypoint to The Crossroads
+
+### The Crossroads (45-57)
+
+- Go to The Chamber of Sins Level 1
+
+### The Chamber of Sins Level 1 (46-58)
+
+- Activate Device
+  - Go to Maligaro's Sanctum
+
+### Maligaro's Sanctum (46-58)
+
+- Go to Maligaro's Workshop
+
+- Kill Maligaro
+  - Loot Black Venom
+
+- Town Portal out
+
+### The Chamber of Sins Level 1 (46-58)
+
+- Talk to Silk
+  - Get Obsidian Key
+
+- Go to The Chamber of Sins Level 2
+
+### The Chamber of Sins Level 2 (46-58)
+
+- Do Trial of Ascendancy
+
+- Ding Level 47
+
+- Click Secret Passage
+  - Go to The Den
+
+### The Den (47-59)
+
+- Go to The Ashen Fields
+
+### The Ashen Fields (47-59)
+
+- Have a Remove Bleed Flask
+
+- Go to The Fortress Encampment
+
+### The Fortress Encampment (47-59)
+
+- Kill Greust
+
+- Go to The Northern Forest
+
+### The Northern Forest (47-59)
+
+- Place a Town Portal outside The Dread Thicket
+
+- Go to The Causeway
+
+### The Causeway (48-60)
+
+- Click Kishara's Lockbox
+  - Loot Kishara's Star
+
+- Ding Level 48
+
+- Go to The Vaal City
+
+### The Vaal City (48-60)
+
+- Get Waypoint
+
+- Waypoint to The Bridge Encampment
+
+### The Bridge Encampment
+
+- Go into Town Portal
+
+### The Northern Forest (47-59)
+
+- Go into The Dread Thicket
+
+### The Dread Thicket (47-59)
+
+- Enter Den of Despair
+  - Kill Gruthkul, Mother of Despair
+
+- Click 7 Firefly
+  - Loot 7 Firefly
+
+- Ding Level 49
+
+- Exit Server
+
+### The Bridge Encampment
+
+- Talk to Eramir
+  - Get 2x Book of Skill
+
+- Talk to Weylam Roth
+  - Get Book of Skill
+
+- Waypoint to The Sarn Encampment
+
+### The Sarn Encampment
+
+- Go to Aspirants Plaza
+
+### Aspirants Plaza
+
+- Check www.poelab.com for layout
+
+- Do The Cruel Labyrinth
+
+- Return to Town
+
+### Lioneye's Watch
+
+- Waypoint to The Vaal City
+
+### The Vaal City (48-60)
+
+- Talk to Yeena
+  - Go to The Temple of Decay
+
+### The Temple of Decay Level 1 (48-60)
+
+- Go to The Temple of Decay Level 2
+
+### The Temple of Decay Level 2 (49-61)
+
+- Ding Level 50
+
+- Go to Arakaali's Web
+  - Kill Arakaali
+
+- Go to The Sarn Ramparts
 
 ## Act 8
 
