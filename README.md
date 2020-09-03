@@ -455,3 +455,275 @@
 ### Lioneye's Watch
 
 - Waypoint to The City of Sarn
+
+## Act 3
+
+### The City of Sarn (19-27)
+
+- Kill the Guards
+
+- Talk to Clarissa
+
+- Go to The Sarn Encampment
+
+### The Sarn Encampment
+
+- Go to The Slum
+
+### The Slum (20-28)
+
+- Ding Level 22
+
+- Go to The Crematorium
+
+### The Crematorium (21-29)
+
+- Get Waypoint
+
+- Do Trial of Ascendancy
+
+- Kill Piety 
+
+- Click Tolman
+  - Loot Tolman's Bracelet
+
+- Exit Server
+
+### The Sarn Encampment
+
+- Have around 750 Life
+
+- Talk to Maramoa
+  - Take Malevolence
+
+- Talk to Clarissa
+  - Get Sewer Key
+  - Buy Despair
+
+- Go to The Slum
+
+### The Slum (20-28)
+
+- Click Sewer Grating
+  - Go to The Sewer
+
+### The Sewers (22-30)
+
+- Pick up Platinum Bust 1/3
+
+- Get Waypoint
+
+- Pick up Platinum Bust 2/3
+
+- Pick up Platinum Bust 3/3
+
+- Ding Level 23
+
+- Go to The Marketplace
+
+### The Marketplace (22-30)
+
+- Get Waypoint
+
+- Go to The Catacombs
+
+### The Catacombs (23-31)
+
+- Do Trial of Ascendancy
+
+- Ding Level 24 (Unlocks 4-Link at Vendor)
+
+- Exit Server
+
+### The Sarn Encampment
+
+- Waypoint to The Marketplace
+
+### The Marketplace (22-30)
+
+- Go to The Battlefront
+
+### The Battlefront (23-31)
+
+- Get Waypoint
+
+- Click Blackguard Chest
+  - Pick up Ribbon Spool
+
+- Go to The Docks
+
+### The Docks (25-33)
+
+- Click Supply Container
+  - Pick up The Sulphite
+
+- Ding Level 25
+
+- Exit Server
+
+### The Sarn Encampment
+
+- Waypoint to The Battlefront
+
+### The Battlefront (23-31)
+
+- Go to The Solaris Temple Level 1
+
+### The Solaris Temple Level 1 (23-31)
+
+- Go to The Solaris Temple Level 2
+
+### The Solaris Temple Level 2 (24-32)
+
+- Ding Level 26
+
+- Talk to Lady Dialla
+  - Take Onyx Amulet
+  - Take Infernal Talc
+
+- Waypoint to The Sewers
+
+### The Sewers (22-30)
+
+- Click Undying Blockage
+
+- Go to The Ebony Barracks
+
+### The Ebony Barracks (25-33)
+
+- Get Waypoint
+
+- Kill General Gravivius
+
+- Go to The Lunaris Temple Level 1
+
+### The Lunaris Temple Level 1 (25-33)
+
+- Ding Level 27
+
+- Go to The Lunaris Temple Level 2
+
+### The Lunaris Temple Level 2 (26-34)
+
+- Ding Level 28
+
+- Be Cold and Lightning Capped
+
+- Click Portal
+
+- Kill Piety
+
+- Loot Tower Key
+
+- Exit Server
+
+### The Sarn Encampment
+
+- Talk to Grigor
+  - Get Book of Skill
+
+- Talk to Maramoa
+
+- Talk to Hargan
+  - Book of Skill
+
+- Waypoint to The Ebony Barracks
+
+### The Ebony Barracks (25-33)
+
+- Go to The Imperial Gardens
+
+### The Imperial Garden (26-34)
+
+- Get Waypoint
+
+- Do Trial of Ascendancy
+
+- Go to The Library (Optional)
+
+### The Library (30) (26-34)
+
+- Get Waypoint
+
+- Talk to Siosa
+
+- Click Loose Candle
+  - Go to The Archives
+  
+### The Archives (31) (27-35)
+
+- Click 4x Book Stand
+  - Loot 4x Golden Page
+  
+- Exit Server
+
+### The Sarn Encampment
+
+- Go to Stash
+  - Take Currency
+  
+- Waypoint to The Library
+
+### The Library (30) (26-34)
+
+- Talk to Siosa
+
+- Go to Aspirants Plaza
+  - Do The Labyrinth
+
+- Waypoint to The Sarn Encampment
+
+### The Sarn Encampment
+- Go to Aspirants Plaza
+
+### Aspirants Plaza
+- Do The Labyrinth
+
+### The Sarn Encampment
+- Waypoint to The Imperial Garden
+
+### The Imperial Garden (26-34)
+
+- Click Locked Door
+  - Go to The Sceptre of God
+  
+### The Sceptre of God (27-37)
+
+- Ding Level 29
+
+- Be Cold and Lightning Capped
+
+- Go to The Upper Sceptre of God
+
+### The Upper Sceptre of God (28-38)
+
+- Kill Dominus
+
+- Go to The Aqueduct
+
+## Act 4
+
+
+
+## Act 5
+
+
+
+## Act 6
+
+
+
+## Act 7
+
+
+
+## Act 8
+
+
+
+## Act 9
+
+
+
+## Act 10
+
