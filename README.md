@@ -1347,7 +1347,7 @@
 
 ### The Sarn Encampment
 
-- Have around 1790 Life
+- Have around 1300 Life
 
 - Go to The Toxic Conduits
 
@@ -1374,6 +1374,8 @@
 
 - Kill Tolman
 
+- Ding Level 52
+
 - Go to The Grain Gate
 
 ### The Grain Gate (51-63)
@@ -1382,9 +1384,11 @@
 
 - Kill The Gemling Legion
 
-- Go to The Imperial Fields
+- Go to The Imperial Fields (Follow dead bodies)
 
 ### The Imperial Fields (52-64)
+
+- Ding Level 53
 
 - Go to The Solaris Temple Level 1
 
@@ -1426,6 +1430,8 @@ Talk to Clarissa
 
 ### The Harbour Bridge (54-66)
 
+- Ding Level 54
+
 - Go to The Lunaris Concourse
 
 ### The Lunaris Concourse (52-64)
@@ -1439,6 +1445,8 @@ Talk to Clarissa
 - Go to The Lunaris Temple Level 2
 
 ### The Lunaris Temple Level 2 (53-65)
+
+- Ding Level 55
 
 - Click Portal
 
@@ -1481,8 +1489,8 @@ Talk to Clarissa
 - Go to The Sky Shrine
 
 - Click Statue of the Sisters
-
-- Kill Solaris, Eternal Sun and Lunaris, Eternal Moon
+  - Kill Solaris, Eternal Sun
+  - Kill Lunaris, Eternal Moon
 
 - Go to The Blood Aqueduct
 
