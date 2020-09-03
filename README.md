@@ -1498,6 +1498,8 @@ Talk to Clarissa
 
 The Blood Aqueduct (55-67)
 
+- Ding Level 62
+
 - Go to Highgate
 
 ### Highgate
@@ -1513,6 +1515,9 @@ The Blood Aqueduct (55-67)
 ### The Vastiri Desert (55-67)
 
 - Get Waypoint
+
+- Click Storm Weathered Chest
+  - Loot Storm Blade
 
 - Find the Sandstorm
 
@@ -1566,6 +1571,8 @@ The Blood Aqueduct (55-67)
 - Waypoint to The Foothills
 
 ### The Foothills (56-68)
+
+- Ding Level 63
 
 - Go to The Tunnel
 
@@ -1629,8 +1636,7 @@ The Blood Aqueduct (55-67)
 - Talk to Sin
 
 - Go to The Black Hearth
-
-- Kill The Depraved Trinity
+  - Kill The Depraved Trinity
 
 - Exit Server
 
