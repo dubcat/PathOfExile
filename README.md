@@ -36,8 +36,9 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support (For Clear)
-- Burning Arrow (For Single Target)
+- Caustic Arrow > Lesser Poison Support (For Clear) | (G-G)
+
+- Burning Arrow (For Single Target) | (G)
 
 ### The Coast (1-5)
 
@@ -79,6 +80,7 @@
 - Talk to Nessa
   - Take Quicksilver Flask
   - Buy Puncture
+  - Buy Contagion
 
 - Talk to Tarkleigh
   - Take Frostblink
@@ -88,7 +90,7 @@
 
 #### Gem Links
 
-- Swap Burning Arrow with Puncture
+- Swap Burning Arrow with Puncture (G-G-G)
 
 ### The Submurged Passage (2-8)
 
@@ -172,8 +174,8 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear)
-- Swap Frostblink with Smoke Mine
+- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
+- Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
 
@@ -214,12 +216,16 @@
 
 - Talk to Nessa
   - Take Essence Drain
-  - Buy Rain of Arrows
+  - Buy Toxic Rain
 
 - Talk to Bestel
   - Take Book of Skill
 
 - Waypoint to Merveil's Caverns
+
+#### Gem Links
+
+- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ### The Cavern of Wrath (9-15)
 
@@ -422,6 +428,9 @@
 
 ### The Forest Encampment
 
+- Talk to Yeena
+  - Buy Frenzy
+
 - Talk to Eramir
   - Get 2 Passive Points
   - Get The Apex
@@ -492,16 +501,23 @@
 
 ### The Sarn Encampment
 
-- Have around 750 Life
-
-- Talk to Maramoa
-  - Take Malevolence
-
 - Talk to Clarissa
   - Get Sewer Key
-  - Buy Despair
+  - Take Despair
+  - Buy 3x Spellslinger
+  - Buy Bane
 
 - Go to The Slum
+
+#### Gem Links
+
+- Spellslinger > Essence Drain > Void Manipulation Support | (B-B-G)
+
+- Spellslinger > Despair > Contagion | (B-B-B)
+
+- Spellslinger > Bane > Void Manipulation Support | (B-B-G)
+
+- Frenzy | (G)
 
 ### The Slum (20-28)
 
@@ -1082,7 +1098,7 @@
 ### Lioneye's Watch
 
 - Talk to Tarkleigh
-  - Take a Helmet
+  - Take ???? Helmet
   
 - Waypoint to Prisoner's Gate
 
@@ -1676,7 +1692,7 @@ The Blood Aqueduct (55-67)
 ### Oriath Docks
 
 - Talk to Lani
-  - Take Flask
+  - Take ??? Flask
   - Take Book of Skill
 
 - Waypoint to The Control Blocks
