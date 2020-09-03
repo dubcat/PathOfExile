@@ -93,7 +93,7 @@
 
 - Talk to Tarkleigh
   - Take Frostblink
-  - Look for Movement Speed Boots ("runner" in search bar. Runner Boots)
+  - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Waypoint to The Submerged Passage
 
