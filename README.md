@@ -9,25 +9,9 @@
 - Go to Lioneye's Watch
 
 - Talk to Nessa
-  - Take Pierce Support
-  - Buy Split Arrow
-  
-- Stash Gems with Burning Arrow
+  - Select Caustic Arrow
 
-- Exit Server
-
------------------------------
-
-- Make a Witch
-
-- Kill Hillock
-
-- Go to Lioneye's Watch
-
-- Talk to Nessa
-  - Take Arcane Surge Support
-  
-- Stash Gem
+- Stash Caustic Arrow and Burning Arrow
 
 - Exit Server
 
