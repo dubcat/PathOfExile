@@ -676,6 +676,8 @@
 
 ### Aspirants Plaza
 
+- Get Waypoint
+
 - Check [PoE Lab](https://www.poelab.com/) for layout
 
 - Do The Labyrinth
@@ -1303,11 +1305,7 @@
 - Talk to Weylam Roth
   - Get Book of Skill
 
-- Waypoint to The Sarn Encampment
-
-### The Sarn Encampment
-
-- Go to Aspirants Plaza
+- Waypoint to Aspirants Plaza
 
 ### Aspirants Plaza
 
@@ -1657,8 +1655,6 @@ The Blood Aqueduct (55-67)
 - Go to Cathedral Apex
   - Kill Kitava's Cultists
 
-- Talk to Bannon
-
 - Go to The Cathedral Rooftop
 
 - Go to The Ravaged Square
@@ -1705,9 +1701,23 @@ The Blood Aqueduct (55-67)
 
 ### Oriath Docks
 
+- Waypoint to Aspirants Plaza
+
+### Aspirants Plaza
+
+- Check [PoE Lab](https://www.poelab.com/) for layout
+
+- Do The Merciless Labyrinth
+
+- Return to Town
+
+### Oriath Docks
+
 - Waypoint to The Ravaged Square
 
 ### The Ravaged Square (57-71)
+
+- Ding Level 64
 
 - Go to The Torched Courts (Up/Right)
 
@@ -1722,8 +1732,7 @@ The Blood Aqueduct (55-67)
 ### The Sanctum of Innocence (58-72)
 
 - Kill Avarius, Reassembled
-
-- Loot The Staff of Purity
+  - Loot The Staff of Purity
 
 - Exit Server
 
@@ -1753,7 +1762,52 @@ The Blood Aqueduct (55-67)
 
 - Click Portal
 
-### Oriath Docks
+### Oriath
 
 - Talk to Lani
   - Get Book of Skill
+
+- Go to The Templar Laboratory (Up)
+
+### The Templar Laboratory
+
+- Go down Stairs
+
+- Talk to Officer Kirac
+
+- Town Portal
+
+### Oriath
+
+- Go to The Fallen Courts (Right)
+
+### The Fallen Courts
+
+- Go to The Fallen Courts
+
+- Click Dominus Desk
+  - Loot Vault Key
+
+- Town Portal
+
+### Oriath
+
+- Go to The Haunted Reliquary (Left)
+
+### The Haunted Reliquary
+
+- Go to The Haunted Reliquary
+
+- Click Vault Keyholes
+
+- Go down Stairs
+
+- Town Portal
+
+- Waypoint to Hideout
+
+### Hideout
+
+- Talk to Officer Kirac
+
+- Run a Map
