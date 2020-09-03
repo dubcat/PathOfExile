@@ -34,6 +34,10 @@
 
 - Go to The Coast
 
+#### Gem Links
+
+- Caustic Arrow > Lesser Poison Support
+
 ### The Coast (1-5)
 
 - Get Waypoint
@@ -73,7 +77,6 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
-  - Buy Mirage Archer Support
 
 - Talk to Tarkleigh
   - Take Frostblink
@@ -153,10 +156,17 @@
 
 ### Lioneye's Watch
 
+- Talk to Nessa
+  - Take Void Manipulation Support
+
 - Talk to Tarkleigh
   - Take Smoke Mine
 
 - Waypoint to Prisoner's Gate
+
+#### Gem Links
+
+- Caustic Arrow > Lesser Poison Support > Void Manipulation Support
 
 ### Prisoner's Gate (7-13)
 
