@@ -1668,8 +1668,7 @@ The Blood Aqueduct (55-67)
 - Get Waypoint
 
 - Go to Arena
-
-- Kill Vilenta
+  - Kill Vilenta
 
 - Exit Server
 
