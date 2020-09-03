@@ -676,7 +676,7 @@
 
 ### Aspirants Plaza
 
-- Check [PoE Lab](www.poelab.com) for layout
+- Check [PoE Lab](https://www.poelab.com/) for layout
 
 - Do The Labyrinth
 
@@ -1311,7 +1311,7 @@
 
 ### Aspirants Plaza
 
-- Check [PoE Lab](www.poelab.com) for layout
+- Check [PoE Lab](https://www.poelab.com/) for layout
 
 - Do The Cruel Labyrinth
 
