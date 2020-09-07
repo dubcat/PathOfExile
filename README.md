@@ -167,9 +167,6 @@
 
 ### Lioneye's Watch
 
-- Talk to Nessa
-  - Take Void Manipulation Support
-
 - Talk to Tarkleigh
   - Take Smoke Mine
 
