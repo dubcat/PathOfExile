@@ -79,12 +79,13 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
+  - Take Infused Channeling
   - Buy Puncture
-  - Buy Contagion
 
    2x Life | Quicksilver | 2x Mana
 
 - Talk to Tarkleigh
+  - Take Contagion
   - Take Frostblink
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
@@ -92,7 +93,8 @@
 
 #### Gem Links
 
-- Swap Burning Arrow with Puncture (G-G-G)
+- Swap Burning Arrow with Puncture | G-G-G
+- Blight > Infused Channeling | B-B
 
 ### The Submurged Passage (2-8)
 
