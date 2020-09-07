@@ -8,10 +8,10 @@
 
 - Go to Lioneye's Watch
 
-- Talk to Nessa
+- Talk to Tarkleigh
   - Select Caustic Arrow
 
-- Stash Caustic Arrow and Burning Arrow
+- Stash Caustic Arrow / Burning Arrow / Bow
 
 - Exit Server
 
