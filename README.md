@@ -140,6 +140,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
+  - Take Void Manipulation
 
 - Talk to Tarkleigh
   - Take Book of Skill
