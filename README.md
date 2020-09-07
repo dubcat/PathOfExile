@@ -160,10 +160,8 @@
 - Ding Level 10
 
 - Go to The Warden's Quarters
-
-- Go to The Warden's Chambers
-
-- Kill Brutus
+  - Go to The Warden's Chambers
+    - Kill Brutus
 
 - Exit Server
 
