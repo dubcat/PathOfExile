@@ -315,9 +315,6 @@
 
 ### The Forest Encampment
 
-- Talk to Greust
-  - Buy Herald of Thunder
-
 - Waypoint to The Crossroads
 
 ### The Riverways (12-18)
@@ -345,11 +342,6 @@
 
 ### The Forest Encampment
 
-- Talk to Silk
-
-- Talk to Yeena
-  - Buy Controlled Destruction Support
-  
 - Waypoint to The Crossroads
 
 ### The Crossroads (12-18)
