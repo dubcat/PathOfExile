@@ -81,6 +81,7 @@
   - Take Quicksilver Flask
   - Take Infused Channeling
   - Buy Puncture
+  - Buy Arcane Surge
 
    2x Life | Quicksilver | 2x Mana
 
@@ -141,6 +142,7 @@
 
 - Talk to Nessa
   - Take Void Manipulation
+  - Buy Void Manipulation
 
 - Talk to Tarkleigh
   - Take Book of Skill
@@ -167,6 +169,11 @@
 
 ### Lioneye's Watch
 
+- Talk to Nessa
+  - Buy Lesser Multiple Projectiles
+  - Buy Flame Dash
+  - Buy Withering Step
+
 - Talk to Tarkleigh
   - Take Smoke Mine
 
@@ -183,7 +190,7 @@
 
 ### The Ship Graveyard (8-14)
 
-- Take Waypoint
+- Get Waypoint
 
 - Ding Level 11
 
@@ -508,10 +515,6 @@
 
 - Spellslinger > Essence Drain > Void Manipulation Support | (B-B-G)
 
-- Spellslinger > Despair > Contagion | (B-B-B)
-
-- Spellslinger > Bane > Void Manipulation Support | (B-B-G)
-
 - Frenzy | (G) | Never Level, keep at Level 1
 
 ### The Slum (20-28)
@@ -644,9 +647,7 @@
 
 #### Gem Links
 
-- Swap Bane with Soulrend | (B)
-
-- Unlink Despair from Spellslinger | (B)
+- Spellslinger > Soulrend > Lesser Multiple Projectiles > Void Manipulation Support | (B-B-G-G)
 
 ### The Ebony Barracks (25-33)
 
@@ -679,7 +680,7 @@
 ### The Sarn Encampment
 
 - Go to Stash
-  - Take 2x Orb of Chance
+  - Take 5x Orb of Chance
   - Take 1x Orb of Transmutation
   
 - Waypoint to The Library
@@ -687,15 +688,12 @@
 ### The Library (30) (26-34)
 
 - Talk to Siosa
-  - Buy 2x Efficacy
-  - Buy Spell Totem
+  - Buy 3x Efficacy
+  - Buy 1x Spell Totem
+  - Buy 2x Swift Affliction
+  - Buy 1x Second Wind
 
 - Waypoint to The Sarn Encampment
-
-#### Gem Links
-
-- Spellslinger > Soulrend > Void Manipulation > Efficacy | (B-B-G-B)
-- Spellslinger > Essence Drain > Void Manipulation > Controlled Destruction | (B-B-G-B)
 
 ### The Sarn Encampment
 
@@ -878,14 +876,13 @@
 
 ### Highgate
 
+- Talk to Petarus and Vanja
+  - Buy Multiple Totems
+
 - Talk to Lady Dialla
   - Take Increased Area of Effect
 
 - Go to The Ascent
-
-#### Gem Links
-
-- Spellslinger > Contagion > Increased Area of Effect | (B-B-B)
 
 ## Act 5
 
