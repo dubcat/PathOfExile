@@ -293,6 +293,8 @@
 
 - Waypoint to The Crossroads
 
+- Go to The Riverways
+
 ### The Riverways (12-18)
 
 - Get Waypoint
