@@ -318,6 +318,9 @@
 
 ### The Forest Encampment
 
+- Talk to Silk
+  - Take Trap and Mine Damage Support
+
 - Waypoint to The Crossroads
 
 ### The Crossroads (12-18)
