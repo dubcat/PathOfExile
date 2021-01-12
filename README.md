@@ -321,6 +321,10 @@
 - Talk to Silk
   - Take Trap and Mine Damage Support
 
+- Talk to Yeena
+  - Buy Controlled Destruction Support
+  - Buy Faster Casting
+
 - Waypoint to The Crossroads
 
 ### The Crossroads (12-18)
