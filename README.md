@@ -288,6 +288,9 @@
 
 ### The Forest Encampment
 
+- Talk to Greust
+ - Take Summon Skitterbots
+
 - Waypoint to The Crossroads
 
 ### The Riverways (12-18)
