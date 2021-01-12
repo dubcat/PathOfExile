@@ -289,7 +289,7 @@
 ### The Forest Encampment
 
 - Talk to Greust
- - Take Summon Skitterbots
+  - Take Summon Skitterbots
 
 - Waypoint to The Crossroads
 
