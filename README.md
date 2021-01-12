@@ -291,8 +291,6 @@
 - Talk to Greust
   - Take Summon Skitterbots
 
-- Waypoint to The Crossroads
-
 - Go to The Riverways
 
 ### The Riverways (12-18)
