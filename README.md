@@ -56,6 +56,7 @@
 - Talk to Nessa
   - Take Quicksilver Flask
   - Take Swift Assembly Support
+  - Buy Arcane Surge Support
 
 - Talk to Tarkleigh
   - Take Frostblink
@@ -66,6 +67,7 @@
 #### Gem Links
 
 - Stormblast Mine - Swift Assembly Support | B-G
+- Frostblink - Arcane Surge Support | B-B
 
 ### The Submurged Passage (2-8)
 
@@ -111,8 +113,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Void Manipulation
-  - Buy Void Manipulation
+  - Take Added Cold Damage Support
 
 - Talk to Tarkleigh
   - Take Book of Skill
@@ -140,9 +141,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Buy Lesser Multiple Projectiles
   - Buy Flame Dash
-  - Buy Withering Step
 
 - Talk to Tarkleigh
   - Take Smoke Mine
@@ -151,8 +150,6 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
-- Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
 
