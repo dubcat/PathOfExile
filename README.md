@@ -189,7 +189,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Essence Drain
+  - Take Icicle Mine
   - Buy Toxic Rain
 
 - Talk to Bestel
@@ -198,8 +198,6 @@
 - Waypoint to Merveil's Caverns
 
 #### Gem Links
-
-- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ### The Cavern of Wrath (9-15)
 
