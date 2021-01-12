@@ -57,6 +57,7 @@
   - Take Quicksilver Flask
   - Take Swift Assembly Support
   - Buy Arcane Surge Support
+  - Buy Pierce Support
 
 - Talk to Tarkleigh
   - Take Frostblink
