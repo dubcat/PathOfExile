@@ -16,12 +16,6 @@
 
 - Go to The Coast
 
-#### Gem Links
-
-- Caustic Arrow > Lesser Poison Support (For Clear) | (G-G)
-
-- Burning Arrow (For Single Target) | (G)
-
 ### The Coast (1-5)
 
 - Get Waypoint
