@@ -2,6 +2,21 @@
 
 ### The Twilight Strand (1-4)
 
+- Make a Ranger
+
+- Kill Hillock
+
+- Go to Lioneye's Watch
+
+- Talk to Tarkleigh
+  - Select Caustic Arrow
+
+- Stash Caustic Arrow / Burning Arrow / Bow
+
+- Exit Server
+
+-----------------------------
+
 - Make a Shadow
 
 - Kill Hillock
@@ -10,11 +25,20 @@
 
 ### Lioneye's Watch
 
+- Talk to Nessa
+  - Buy 2x Iron Rings
+
 - Talk to Tarkleigh
-  - Take StormBlast Mine
+  - Take Blight
   - Buy Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Go to The Coast
+
+#### Gem Links
+
+- Caustic Arrow > Lesser Poison Support (For Clear) | (G-G)
+
+- Burning Arrow (For Single Target) | (G)
 
 ### The Coast (1-5)
 
@@ -55,11 +79,14 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
-  - Take Swift Assembly Support
-  - Buy Arcane Surge Support
-  - Buy Pierce Support
+  - Take Infused Channeling
+  - Buy Puncture
+  - Buy Arcane Surge
+
+   2x Life | Quicksilver | 2x Mana
 
 - Talk to Tarkleigh
+  - Take Contagion
   - Take Frostblink
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
@@ -67,8 +94,8 @@
 
 #### Gem Links
 
-- Stormblast Mine - Swift Assembly Support | B-G
-- Frostblink - Arcane Surge Support | B-B
+- Swap Burning Arrow with Puncture | G-G-G
+- Blight > Infused Channeling | B-B
 
 ### The Submurged Passage (2-8)
 
@@ -114,7 +141,8 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Added Cold Damage Support
+  - Take Void Manipulation
+  - Buy Void Manipulation
 
 - Talk to Tarkleigh
   - Take Book of Skill
@@ -142,7 +170,9 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
+  - Buy Lesser Multiple Projectiles
   - Buy Flame Dash
+  - Buy Withering Step
 
 - Talk to Tarkleigh
   - Take Smoke Mine
@@ -151,6 +181,8 @@
 
 #### Gem Links
 
+- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
+- Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
 
@@ -190,7 +222,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Icicle Mine
+  - Take Essence Drain
   - Buy Toxic Rain
 
 - Talk to Bestel
@@ -199,6 +231,8 @@
 - Waypoint to Merveil's Caverns
 
 #### Gem Links
+
+- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ### The Cavern of Wrath (9-15)
 
@@ -288,9 +322,6 @@
 
 ### The Forest Encampment
 
-- Talk to Greust
-  - Take Summon Skitterbots
-
 - Go to The Riverways
 
 ### The Riverways (12-18)
@@ -317,13 +348,6 @@
 - Exit Server
 
 ### The Forest Encampment
-
-- Talk to Silk
-  - Take Trap and Mine Damage Support
-
-- Talk to Yeena
-  - Buy Controlled Destruction Support
-  - Buy Faster Casting
 
 - Waypoint to The Crossroads
 
@@ -405,6 +429,9 @@
 - Exit server
 
 ### The Forest Encampment
+
+- Talk to Yeena
+  - Buy Frenzy
 
 - Talk to Eramir
   - Get 2 Passive Points
