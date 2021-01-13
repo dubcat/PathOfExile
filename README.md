@@ -406,9 +406,6 @@
 
 ### The Forest Encampment
 
-- Talk to Yeena
-  - Buy Frenzy
-
 - Talk to Eramir
   - Get 2 Passive Points
   - Get The Apex
