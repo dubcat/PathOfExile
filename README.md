@@ -64,23 +64,17 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
-  - Take Infused Channeling
-  - Buy Puncture
-  - Buy Arcane Surge
-
-   2x Life | Quicksilver | 2x Mana
+  - Take Onslaught
+  - Buy War Banner
 
 - Talk to Tarkleigh
-  - Take Contagion
-  - Take Frostblink
+  - Take Ancestral Protector
+  - Take Dash
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Waypoint to The Submerged Passage
 
 #### Gem Links
-
-- Swap Burning Arrow with Puncture | G-G-G
-- Blight > Infused Channeling | B-B
 
 ### The Submurged Passage (2-8)
 
@@ -126,8 +120,7 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Void Manipulation
-  - Buy Void Manipulation
+  - Take Maim
 
 - Talk to Tarkleigh
   - Take Book of Skill
@@ -155,19 +148,15 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Buy Lesser Multiple Projectiles
-  - Buy Flame Dash
-  - Buy Withering Step
+  - Buy Smoke Mine
 
 - Talk to Tarkleigh
-  - Take Smoke Mine
+  - Take Vitality
 
 - Waypoint to Prisoner's Gate
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
-- Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
 
