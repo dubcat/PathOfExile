@@ -2,22 +2,7 @@
 
 ### The Twilight Strand (1-4)
 
-- Make a Ranger
-
-- Kill Hillock
-
-- Go to Lioneye's Watch
-
-- Talk to Tarkleigh
-  - Select Caustic Arrow
-
-- Stash Caustic Arrow / Burning Arrow / Bow
-
-- Exit Server
-
------------------------------
-
-- Make a Shadow
+- Make a Duelist
 
 - Kill Hillock
 
@@ -29,7 +14,7 @@
   - Buy 2x Iron Rings
 
 - Talk to Tarkleigh
-  - Take Blight
+  - Take Splitting Steel
   - Buy Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Go to The Coast
