@@ -208,7 +208,6 @@
 
 #### Gem Links
 
-- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ### The Cavern of Wrath (9-15)
 
@@ -268,8 +267,6 @@
 
 - Talk to Yeena
  - Take Quicksilver Flask
-
-   2x Life | 2x Quicksilver | Mana
   
 - Waypoint to The Crossroads
 
@@ -297,6 +294,13 @@
 - Exit Server
 
 ### The Forest Encampment
+
+- Talk to Greust
+  - Take Flesh and Stone
+
+- Talk to Yeena
+  - Buy Seismic Cry
+  - Buy Blood Rage
 
 - Go to The Riverways
 
