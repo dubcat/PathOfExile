@@ -149,6 +149,7 @@
 
 - Talk to Nessa
   - Buy Smoke Mine
+  - Buy Blood and Sand
 
 - Talk to Tarkleigh
   - Take Vitality
@@ -196,8 +197,9 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Essence Drain
-  - Buy Toxic Rain
+  - Take Earthshatter
+  - Buy Intimidating Cry
+  - Buy Enduring Cry
 
 - Talk to Bestel
   - Take Book of Skill
