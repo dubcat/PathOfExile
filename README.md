@@ -2,7 +2,22 @@
 
 ### The Twilight Strand (1-4)
 
-- Make a Duelist
+- Make a Ranger
+
+- Kill Hillock
+
+- Go to Lioneye's Watch
+
+- Talk to Tarkleigh
+  - Select Caustic Arrow
+
+- Stash Caustic Arrow / Burning Arrow / Bow
+
+- Exit Server
+
+-----------------------------
+
+- Make a Shadow
 
 - Kill Hillock
 
@@ -14,7 +29,7 @@
   - Buy 2x Iron Rings
 
 - Talk to Tarkleigh
-  - Take Splitting Steel
+  - Take Blight
   - Buy Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Go to The Coast
@@ -64,17 +79,23 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
-  - Take Onslaught
-  - Buy War Banner
+  - Take Infused Channeling
+  - Buy Puncture
+  - Buy Arcane Surge
+
+   2x Life | Quicksilver | 2x Mana
 
 - Talk to Tarkleigh
-  - Take Ancestral Protector
-  - Take Dash
+  - Take Contagion
+  - Take Frostblink
   - Look for Movement Speed Boots ("runner" in search bar for Runner Boots)
 
 - Waypoint to The Submerged Passage
 
 #### Gem Links
+
+- Swap Burning Arrow with Puncture | G-G-G
+- Blight > Infused Channeling | B-B
 
 ### The Submurged Passage (2-8)
 
@@ -120,7 +141,8 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Maim
+  - Take Void Manipulation
+  - Buy Void Manipulation
 
 - Talk to Tarkleigh
   - Take Book of Skill
@@ -148,16 +170,19 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Buy Smoke Mine
-  - Buy Blood and Sand
+  - Buy Lesser Multiple Projectiles
+  - Buy Flame Dash
+  - Buy Withering Step
 
 - Talk to Tarkleigh
-  - Take Vitality
+  - Take Smoke Mine
 
 - Waypoint to Prisoner's Gate
 
 #### Gem Links
 
+- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
+- Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
 
@@ -197,9 +222,8 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
-  - Take Earthshatter
-  - Buy Intimidating Cry
-  - Buy Enduring Cry
+  - Take Essence Drain
+  - Buy Toxic Rain
 
 - Talk to Bestel
   - Take Book of Skill
@@ -208,6 +232,7 @@
 
 #### Gem Links
 
+- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ### The Cavern of Wrath (9-15)
 
@@ -267,6 +292,8 @@
 
 - Talk to Yeena
  - Take Quicksilver Flask
+
+   2x Life | 2x Quicksilver | Mana
   
 - Waypoint to The Crossroads
 
@@ -294,13 +321,6 @@
 - Exit Server
 
 ### The Forest Encampment
-
-- Talk to Greust
-  - Take Flesh and Stone
-
-- Talk to Yeena
-  - Buy Seismic Cry
-  - Buy Blood Rage
 
 - Go to The Riverways
 
