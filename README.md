@@ -53,10 +53,10 @@
 - Click 3 Rhoa Nests
   - Loot 3 Glyphs
 
+- Ding Level 3
+
 - Click Strange Glyph Wall
   - Go to The Submerged Passage
-
-- Ding Level 3
 
 ### The Submerged Passage (2-8)
 
