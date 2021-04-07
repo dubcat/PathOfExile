@@ -80,10 +80,10 @@
 
 - Talk to Nessa
   - Take Quicksilver Flask
-  - Take Infused Channeling
+  - Take Swift Assembly Support
   - Buy Puncture
-  - Buy Swift Assembly Support
   - Buy Arcane Surge
+  - Buy Steelskin
 
    2x Life | Quicksilver | 2x Mana
 
@@ -100,8 +100,6 @@
 - Explosive Trap > Lesser Poison Support > Swift Assembly Support | (G-G-G)
 
 ### The Submurged Passage (2-8)
-
-- Place a Town Portal at Bridge
 
 - Ding Level 4
 
@@ -137,7 +135,6 @@
 
 - Talk to Nessa
   - Take Void Manipulation
-  - Buy Void Manipulation
   - Buy Flame Dash
   - Buy Withering Step
 
