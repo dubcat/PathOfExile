@@ -21,6 +21,8 @@
 
 - Kill Hillock
 
+- Ding Level 2
+
 - Go to Lioneye's Watch
 
 ### Lioneye's Watch
