@@ -44,8 +44,6 @@
 
 - Get Waypoint
 
-- Ding Level 2
-
 - Go to The Mud Flats
 
 ### The Mud Flats (1-7)
@@ -53,10 +51,10 @@
 - Click 3 Rhoa Nests
   - Loot 3 Glyphs
 
-- Ding Level 3
-
 - Click Strange Glyph Wall
   - Go to The Submerged Passage
+
+- Ding Level 3
 
 ### The Submerged Passage (2-8)
 
@@ -67,8 +65,6 @@
 - Go to The Tidal Island
 
 ### The Tidal Island (1-6)
-
-- Ding Level 4
 
 - Kill Hailrake
   - Loot Medicine Chest
@@ -101,13 +97,13 @@
 
 - Place a Town Portal at Bridge
 
-- Ding Level 5
+- Ding Level 4
 
 - Go to The Ledge
 
 ### The Ledge (3-9)
 
-- Ding Level 6.5
+- Ding Level 7
 
 - Go to The Climb
 
@@ -115,8 +111,6 @@
 
 - Kill The Faun
   - Talk to Navali
-
-- Ding Level 8
 
 - Go to The Lower Prison
 
@@ -159,8 +153,6 @@
 
 ### The Upper Prison (6-12)
 
-- Ding Level 10
-
 - Go to The Warden's Quarters
   - Go to The Warden's Chambers
     - Kill Brutus
@@ -186,13 +178,13 @@
 
 ### Prisoner's Gate (7-13)
 
+- Ding Level 10
+
 - Go to The Ship Graveyard
 
 ### The Ship Graveyard (8-14)
 
 - Get Waypoint
-
-- Ding Level 11
 
 - Go to The Ship Graveyard Cave
 
@@ -205,8 +197,6 @@
 
 ### The Ship Graveyard (8-14)
 
-- Ding Level 12
-
 - Go to The Cavern of Wrath
 
 ### The Cavern of Wrath (9-15)
@@ -216,6 +206,8 @@
 ### The Ship Graveyard (8-14)
 
 - Kill Captain Fairgraves
+
+- Ding Level 11
 
 - Exit Server
 
@@ -240,7 +232,7 @@
 
 ### The Cavern of Anger (10-16)
 
-- Ding Level 13
+- Ding Level 12
 
 - Be Cold Capped
 
@@ -299,11 +291,13 @@
 
 ### The Crossroads (12-18)
 
-- Ding Level 14
+- Ding Level 13
 
 - Go to The Chamber of Sins 1
 
 ### The Chamber of Sins 1 (12-18)
+
+- Ding Level 14
 
 - Go to The Chamber of Sins 2
 
@@ -448,13 +442,11 @@
 
 ### The Caverns (18-26)
 
-- Ding Level 20
-
 - Go to The Ancient Pyramid
 
 ### The Ancient Pyramid (19-27)
 
-- Ding Level 21
+- Ding Level 20
 
 - Be Cold and Lightning Capped
 
@@ -484,7 +476,7 @@
 
 ### The Slum (20-28)
 
-- Ding Level 22
+- Ding Level 21
 
 - Go to The Crematorium
 
@@ -532,7 +524,7 @@
 
 - Pick up Platinum Bust 3/3
 
-- Ding Level 23
+- Ding Level 22
 
 - Go to The Marketplace
 
@@ -546,8 +538,6 @@
 
 - Do Trial of Ascendancy
 
-- Ding Level 24 (Unlocks 4-Link at Vendor)
-
 - Exit Server
 
 ### The Sarn Encampment
@@ -555,6 +545,8 @@
 - Waypoint to The Marketplace
 
 ### The Marketplace (22-30)
+
+- Ding Level 23
 
 - Go to The Battlefront
 
@@ -564,6 +556,8 @@
 
 - Click Blackguard Chest
   - Pick up Ribbon Spool
+
+- Ding Level 24
 
 - Go to The Docks
 
@@ -590,8 +584,6 @@
 
 ### The Solaris Temple Level 2 (24-32)
 
-- Ding Level 26
-
 - Talk to Lady Dialla
   - Take Onyx Amulet
   - Take Infernal Talc
@@ -614,13 +606,13 @@
 
 ### The Lunaris Temple Level 1 (25-33)
 
-- Ding Level 27
+- Ding Level 26
 
 - Go to The Lunaris Temple Level 2
 
 ### The Lunaris Temple Level 2 (26-34)
 
-- Ding Level 28
+- Ding Level 27
 
 - Be Cold and Lightning Capped
 
@@ -720,7 +712,7 @@
   
 ### The Sceptre of God (27-37)
 
-- Ding Level 30
+- Ding Level 28
 
 - Be Cold and Lightning Capped
 
@@ -736,7 +728,7 @@
 
 ### The Aqueduct (28-38)
 
-- Ding Level 31
+- Ding Level 29
 
 - Go to Highgate
 
@@ -747,6 +739,8 @@
 - Go to The Dried Lake
 
 ### The Dried Lake (29-39)
+
+- Ding Level 30
 
 - Kill Voll, Emperor of Purity
   - Loot Deshret's Banner
@@ -766,7 +760,7 @@
 
 - Click Deshret's Spirit
 
-- Ding Level 32
+- Ding Level 31
 
 - Go to The Crystal Veins
 
@@ -778,11 +772,11 @@
 
 ### Daresso's Dream (32-42)
 
+- Ding Level 32
+
 - Go to The Grand Arena
 
 ### The Grand Arena (33-43)
-
-- Ding Level 33
 
 - Be Cold Capped
 
@@ -808,7 +802,7 @@
 
 ### Kaom's Stronghold (33-43)
 
-- Ding Level 34
+- Ding Level 33
 
 - Be Fire Capped
 
@@ -829,14 +823,16 @@
 
 ### The Belly of the Beast Level 1 (33-43)
 
+- Ding Level 34
+
 - Go to The Belly of the Beast Level 2
 
 ### The Belly of the Beast Level 2 (34-44)
 
-- Ding Level 35
-
 - Kill Piety
   - Talk to Piety
+
+- Ding Level 35
 
 - Go to The Harvest
 
@@ -888,14 +884,14 @@
 
 ### The Ascent (35-45)
 
-- Ding Level 36
-
 - Click Lever
   - Click Oriath Portal
 
 - Go to The Slave Pens
 
 ### The Slave Pens (36-46)
+
+- Ding Level 36
 
 - Kill Overseer Krow
 
@@ -925,8 +921,6 @@
   - Go to The Templar Courts
 
 ### The Templar Courts (37-47)
-
-- Ding Level 38
 
 - Go to The Chamber of Innocence
 
@@ -966,6 +960,8 @@
 
 ### The Torched Courts (39-49)
 
+- Ding Level 41
+
 - Go to The Ruined Square
 
 ### The Ruined Square (39-49)
@@ -998,8 +994,6 @@
 - Click 3x Karui Relic Case
   - Loot 3x Kitava's Torments
 
-- Ding Level 41
-
 - Waypoint to Overseer's Tower
 
 ### Overseer's Tower
@@ -1014,6 +1008,8 @@
 - Go to The Cathedral Rooftop
 
 ### The Cathedral Rooftop (40-50)
+
+- Ding Level 42
 
 - Be Fire Capped
 
@@ -1043,8 +1039,6 @@
 
 - Kill The Dishonoured Queen
   - Loot Eye of Conquest
-
-- Ding Level 42
 
 - Go to The Karui Fortress
 
@@ -1122,13 +1116,13 @@
 
 ### The Western Forest (42-54)
 
-- Ding Level 44
-
 - Go to The Riverways
 
 ### The Riverways (42-54)
 
 - Get Waypoint
+
+- Ding Level 44
 
 - Go to The Wetlands
 
@@ -1201,6 +1195,8 @@
 - Click Dirty Lockbox
   - Silver Locket
 
+- Ding Level 46
+
 - Go to The Crossroads
 
 ### The Crossroads (45-57)
@@ -1210,8 +1206,6 @@
 - Go to The Fellshrine Ruins
 
 ### The Fellshrine Ruins (45-57)
-
-- Ding Level 46
 
 - Go to The Crypt
 
@@ -1240,6 +1234,8 @@
 
 ### The Chamber of Sins Level 1 (46-58)
 
+- Ding Level 47
+
 - Activate Device
   - Go to Maligaro's Sanctum
 
@@ -1262,8 +1258,6 @@
 ### The Chamber of Sins Level 2 (46-58)
 
 - Do Trial of Ascendancy
-
-- Ding Level 47
 
 - Click Secret Passage
   - Go to The Den
@@ -1321,8 +1315,6 @@
 - Click 7 Firefly
   - Loot 7 Firefly
 
-- Ding Level 49
-
 - Exit Server
 
 ### The Bridge Encampment
@@ -1354,11 +1346,11 @@
 
 ### The Temple of Decay Level 1 (48-60)
 
+- Ding Level 49
+
 - Go to The Temple of Decay Level 2
 
 ### The Temple of Decay Level 2 (49-61)
-
-- Ding Level 50
 
 - Go to Arakaali's Web
   - Kill Arakaali
@@ -1368,6 +1360,8 @@
 ## Act 8
 
 ### The Sarn Ramparts (49-61)
+
+- Ding Level 50
 
 - Go to The Sarn Encampment
 
@@ -1400,8 +1394,6 @@
 
 - Kill Tolman
 
-- Ding Level 52
-
 - Go to The Grain Gate
 
 ### The Grain Gate (51-63)
@@ -1413,8 +1405,6 @@
 - Go to The Imperial Fields (Follow dead bodies)
 
 ### The Imperial Fields (52-64)
-
-- Ding Level 53
 
 - Go to The Solaris Temple Level 1
 
@@ -1452,11 +1442,11 @@ Talk to Clarissa
 
 ### The Solaris Concourse (52-64)
 
+- Ding Level 52
+
 - Go to The Harbour Bridge
 
 ### The Harbour Bridge (54-66)
-
-- Ding Level 54
 
 - Go to The Lunaris Concourse
 
@@ -1471,8 +1461,6 @@ Talk to Clarissa
 - Go to The Lunaris Temple Level 2
 
 ### The Lunaris Temple Level 2 (53-65)
-
-- Ding Level 55
 
 - Click Portal
 
@@ -1492,6 +1480,8 @@ Talk to Clarissa
 ### The Bath House (51-63)
 
 - Do Trial of Ascendancy
+
+- Ding Level 51
 
 - Go to The High Gardens
 
@@ -1523,8 +1513,6 @@ Talk to Clarissa
 ## Act 9
 
 The Blood Aqueduct (55-67)
-
-- Ding Level 62
 
 - Go to Highgate
 
@@ -1587,6 +1575,8 @@ The Blood Aqueduct (55-67)
 
 ### The Boiling Lake (56-68)
 
+- Ding Level 53
+
 - Kill The Basilisk
   - Loot Basilisk Acid
 
@@ -1597,8 +1587,6 @@ The Blood Aqueduct (55-67)
 - Waypoint to The Foothills
 
 ### The Foothills (56-68)
-
-- Ding Level 63
 
 - Go to The Tunnel
 
@@ -1685,6 +1673,8 @@ The Blood Aqueduct (55-67)
 
 - Go to The Cathedral Rooftop
 
+- Ding Level 54
+
 - Go to The Ravaged Square
 
 ### The Ravaged Square (57-71)
@@ -1743,8 +1733,6 @@ The Blood Aqueduct (55-67)
 - Waypoint to The Ravaged Square
 
 ### The Ravaged Square (57-71)
-
-- Ding Level 64
 
 - Go to The Torched Courts (Up/Right)
 
