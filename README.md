@@ -21,12 +21,15 @@
 
 - Kill Hillock
 
+- Ding Level 2
+
 - Go to Lioneye's Watch
 
 ### Lioneye's Watch
 
 - Talk to Nessa
   - Buy 2x Iron Rings
+  - Buy Explosive Trap
 
 - Talk to Tarkleigh
   - Take Blight
@@ -36,9 +39,11 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support (For Clear) | (G-G)
+- Caustic Arrow > Pierce Support (For Clear) | (G-G)
 
 - Burning Arrow (For Single Target) | (G)
+
+- Explosive Trap > Lesser Poison Support  | (G-G)
 
 ### The Coast (1-5)
 
@@ -77,6 +82,7 @@
   - Take Quicksilver Flask
   - Take Infused Channeling
   - Buy Puncture
+  - Buy Swift Assembly Support
   - Buy Arcane Surge
 
    2x Life | Quicksilver | 2x Mana
@@ -90,8 +96,8 @@
 
 #### Gem Links
 
-- Swap Burning Arrow with Puncture | G-G-G
-- Blight > Infused Channeling | B-B
+- Swap Burning Arrow with Puncture | (G)
+- Explosive Trap > Lesser Poison Support > Swift Assembly Support | (G-G-G)
 
 ### The Submurged Passage (2-8)
 
@@ -132,7 +138,6 @@
 - Talk to Nessa
   - Take Void Manipulation
   - Buy Void Manipulation
-  - Buy Lesser Multiple Projectiles
   - Buy Flame Dash
   - Buy Withering Step
 
@@ -143,7 +148,7 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
+- Caustic Arrow > Pierce Support > Void Manipulation Support (For Clear) | (G-G-G)
 - Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
@@ -180,10 +185,6 @@
   - Buy Toxic Rain
 
 - Waypoint to The Southern Forest
-
-#### Gem Links
-
-- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ## Act 2
 
@@ -415,7 +416,7 @@
 - Talk to Clarissa
   - Get Sewer Key
   - Take Despair
-  - Buy 3x Spellslinger
+  - Buy 2x Spellslinger
   - Buy Bane
 
 - Go to The Slum
@@ -545,7 +546,7 @@
 
 #### Gem Links
 
-- Spellslinger > Soulrend > Lesser Multiple Projectiles > Void Manipulation Support | (B-B-G-G)
+- Spellslinger > Contagion > Soulrend | (B-B-B)
 
 ### The Ebony Barracks (25-33)
 
@@ -586,7 +587,7 @@
 ### The Library (30) (26-34)
 
 - Talk to Siosa
-  - Buy 3x Efficacy
+  - Buy 2x Efficacy
   - Buy 1x Spell Totem
   - Buy 2x Swift Affliction
   - Buy 1x Second Wind
