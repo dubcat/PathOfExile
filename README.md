@@ -21,8 +21,6 @@
 
 - Kill Hillock
 
-- Ding Level 2
-
 - Go to Lioneye's Watch
 
 ### Lioneye's Watch
@@ -111,39 +109,7 @@
 
 ### The Climb (4-10)
 
-- Kill The Faun
-  - Talk to Navali
-
 - Go to The Lower Prison
-
-### The Lower Prison (5-11)
-
-- Waypoint to Lioneye's Watch
-
-### Lioneye's Watch
-
-- Go into Town Portal
-
-### The Submerged Passage (5) (2-8)
-
-- Go to The Flooded Depths
-
-### The Flooded Depths (6) (3-9)
-
-- Kill Dweller of the Deep
-
-- Exit Server
-
-### Lioneye's Watch
-
-- Talk to Nessa
-  - Take Void Manipulation
-  - Buy Void Manipulation
-
-- Talk to Tarkleigh
-  - Take Book of Skill
-
-- Waypoint to The Prison
 
 ### The Lower Prison (5-11)
 
@@ -164,6 +130,8 @@
 ### Lioneye's Watch
 
 - Talk to Nessa
+  - Take Void Manipulation
+  - Buy Void Manipulation
   - Buy Lesser Multiple Projectiles
   - Buy Flame Dash
   - Buy Withering Step
@@ -186,47 +154,9 @@
 
 ### The Ship Graveyard (8-14)
 
-- Get Waypoint
-
-- Go to The Ship Graveyard Cave
-
-### The Ship Graveyard Cave (9-15)
-
-- Click Slave Girl
-  - Loot Allflame
-
-- Go to The Ship Graveyard
-
-### The Ship Graveyard (8-14)
-
-- Go to The Cavern of Wrath
-
-### The Cavern of Wrath (9-15)
-
-- Waypoint to The Ship Graveyard
-
-### The Ship Graveyard (8-14)
-
-- Kill Captain Fairgraves
-
 - Ding Level 11
 
-- Exit Server
-
-### Lioneye's Watch
-
-- Talk to Nessa
-  - Take Essence Drain
-  - Buy Toxic Rain
-
-- Talk to Bestel
-  - Take Book of Skill
-
-- Waypoint to Merveil's Caverns
-
-#### Gem Links
-
-- Swap Lesser Poison with Toxic Rain | (G-G-G)
+- Go to The Cavern of Wrath
 
 ### The Cavern of Wrath (9-15)
 
@@ -239,10 +169,21 @@
 - Be Cold Capped
 
 - Go to Merveil's Lair
+  - Kill Mervel
 
-- Kill Mervel
+- Exit Server
 
-- Go to Southern Forest
+### Lioneye's Watch
+
+- Talk to Nessa
+  - Take Essence Drain
+  - Buy Toxic Rain
+
+- Waypoint to The Southern Forest
+
+#### Gem Links
+
+- Swap Lesser Poison with Toxic Rain | (G-G-G)
 
 ## Act 2
 
@@ -252,7 +193,7 @@
 
 ### The Forest Encampment
 
-- Have around 350 Life
+- Have around 240 Life
 
 - Go to The Old Fields
 
@@ -286,8 +227,7 @@
 
 - Talk to Yeena
  - Take Quicksilver Flask
-
-   2x Life | 2x Quicksilver | Mana
+   - 2x Life | 2x Quicksilver | Mana
   
 - Waypoint to The Crossroads
 
@@ -349,24 +289,6 @@
 
 ### The Crossroads (12-18)
 
-- Go to The Fellshrine Ruins
-
-### The Fellshrine Ruins (12-20)
-
-- Go to The Crypt Level 1
-
-### The Crypt Level 1 (13-21)
-
-- Do Trial of Ascendancy
-
-- Exit Server
-
-### The Forest Encampment
-
-- Waypoint to The Crossroads
-
-### The Crossroads (12-18)
-
 - Go to The Broken Bridge
 
 ### The Broken Bridge (12-20)
@@ -385,15 +307,43 @@
 
 ### The Wetlands (15-23)
 
+- Ding Level 17
+
 - Kill Oak
 
 - Get Waypoint
+  - Waypoint to The Western Forest
+
+### The Western Forest (13-21)
+
+- Kill Alira
+
+- Kill Captain Arteri
+  - Loot Thaumetic Emblem
+
+- Click Thaumetic Seal
+
+- Exit server
+
+### The Forest Encampment
+
+- Talk to Eramir
+  - Get 2 Passive Points
+  - Get The Apex
+
+- Waypoint to Lioneye's Watch
+
+### Lioneye's Watch
+
+- Talk to Bestel
+  - Take Book of Skill
+
+- Waypoint to The Wetlands
+
+### The Wetlands (15-23)
 
 - Click Tree Roots
-
-- Ding Level 17
-
-- Go to The Vaal Ruins
+  - Go to The Vaal Ruins
 
 ### The Vaal Ruins (16-24)
 
@@ -411,39 +361,6 @@
 
 ### The Caverns (18-26)
 
-- Waypoint to The Western Forest
-
-### The Western Forest (13-21)
-
-- Kill Alira
-
-- Kill Captain Arteri
-  - Loot Thaumetic Emblem
-
-- Click Thaumetic Seal
-
-- Exit server
-
-### The Forest Encampment
-
-- Talk to Yeena
-  - Buy Frenzy
-
-- Talk to Eramir
-  - Get 2 Passive Points
-  - Get The Apex
-
-- Waypoint to Lioneye's Watch
-
-### Lioneye's Watch
-
-- Talk to Bestel
-  - Take Book of Skill
-
-- Waypoint to The Caverns
-
-### The Caverns (18-26)
-
 - Go to The Ancient Pyramid
 
 ### The Ancient Pyramid (19-27)
@@ -453,8 +370,7 @@
 - Be Cold and Lightning Capped
 
 - Go to Pyramid Apex
-
-- Kill Vaal Oversoul
+  - Kill Vaal Oversoul
 
 - Exit Server
 
@@ -467,8 +383,7 @@
 ### The City of Sarn (19-27)
 
 - Kill the Guards
-
-- Talk to Clarissa
+  - Talk to Clarissa
 
 - Go to The Sarn Encampment
 
@@ -534,20 +449,6 @@
 
 - Get Waypoint
 
-- Go to The Catacombs
-
-### The Catacombs (23-31)
-
-- Do Trial of Ascendancy
-
-- Exit Server
-
-### The Sarn Encampment
-
-- Waypoint to The Marketplace
-
-### The Marketplace (22-30)
-
 - Ding Level 23
 
 - Go to The Battlefront
@@ -560,6 +461,19 @@
   - Pick up Ribbon Spool
 
 - Ding Level 24
+
+- Go to The Solaris Temple Level 1
+
+### The Solaris Temple Level 1 (23-31)
+
+- Go to The Solaris Temple Level 2
+
+### The Solaris Temple Level 2 (24-32)
+
+- Get Waypoint
+  - Waypoint to The Battlefront
+  
+### The Battlefront (23-31)
 
 - Go to The Docks
 
@@ -574,15 +488,7 @@
 
 ### The Sarn Encampment
 
-- Waypoint to The Battlefront
-
-### The Battlefront (23-31)
-
-- Go to The Solaris Temple Level 1
-
-### The Solaris Temple Level 1 (23-31)
-
-- Go to The Solaris Temple Level 2
+- Waypoint to The Solaris Temple Level 2
 
 ### The Solaris Temple Level 2 (24-32)
 
@@ -595,8 +501,7 @@
 ### The Sewers (22-30)
 
 - Click Undying Blockage
-
-- Go to The Ebony Barracks
+  - Go to The Ebony Barracks
 
 ### The Ebony Barracks (25-33)
 
@@ -621,8 +526,7 @@
 - Click Portal
 
 - Kill Piety
-
-- Loot Tower Key
+  - Loot Tower Key
 
 - Exit Server
 
@@ -687,24 +591,6 @@
   - Buy 2x Swift Affliction
   - Buy 1x Second Wind
 
-- Waypoint to The Sarn Encampment
-
-### The Sarn Encampment
-
-- Go to Aspirants Plaza
-
-### Aspirants Plaza
-
-- Get Waypoint
-
-- Check [PoE Lab](https://www.poelab.com/) for layout
-
-- Do The Labyrinth
-
-- Return to Town
-
-### The Sarn Encampment
-
 - Waypoint to The Imperial Garden
 
 ### The Imperial Garden (26-34)
@@ -736,7 +622,7 @@
 
 ### Highgate
 
-- Have around 950 Life
+- Have around 665 Life
 
 - Go to The Dried Lake
 
@@ -780,19 +666,7 @@
 
 ### The Grand Arena (33-43)
 
-- Be Cold Capped
-
-- Kill Daresso, King of Swords
-  - Loot The Eye of Desire
-
-- Exit Server
-
-### Highgate
-
-- Talk to Tasuni
-  - Take Book of Skill
-
-- Waypoint to The Crystal Vein
+- Waypoint to The Crystal Veins
 
 ### The Crystal Veins (31-41)
 
@@ -815,13 +689,28 @@
 
 ### Highgate
 
+- Talk to Tasuni
+  - Take Book of Skill
+
+- Waypoint to The Grand Arena
+
+### The Grand Arena (33-43)
+
+- Be Cold Capped
+
+- Kill Daresso, King of Swords
+  - Loot The Eye of Desire
+
+- Exit Server
+
+### Highgate
+
 - Waypoint to The Crystal Veins
 
 ### The Crystal Veins (31-41)
 
 - Talk to Lady Dialla
-
-- Go to The Belly of The Beast
+  - Go to The Belly of The Beast
 
 ### The Belly of the Beast Level 1 (33-43)
 
@@ -854,19 +743,18 @@
 
 ### The Harvest (35-45)
 
-- Go Left/Up
+- Go Left/Down
   - Kill Mini Boss
   - Loot Body Part
   
-- Go Left/Down
+- Go Left/Up
   - Kill Mini Boss
   - Loot Body Part
 
 - Be Fire Capped
 
 - Talk to Piety
-
-- Enter The Black Core
+  - Enter The Black Core
 
 - Kill Malachai, The Nightmare
 
@@ -901,7 +789,7 @@
 
 ### Overseer's Tower
 
-- Have around 1350 Life
+- Have around 884 Life
 
 - Go to The Control Blocks
 
@@ -941,21 +829,6 @@
 
 - Go to The Chamber of Innocence
 
-- Waypoint to Overseers Tower
-
-### Overseer's Tower
-
-- Talk to Lani
-  - Take Spreading Rot Jewel
-  - Take Stibnite Flask
-  
-   2x Life | 2x Quicksilver | Stibnite
-  
-- Talk to Vilenta 
-  - Take Book of Skill
-
-- Waypoint to The Chamber of Innocence
-
 ### The Chamber of Innocence (38-48)
 
 - Go to The Torched Courts
@@ -981,29 +854,15 @@
 
 ### Overseer's Tower
 
-- Waypoint to The Ruined Square
-
-### The Ruined Square (39-49)
-
-- Place a Town Portal near The Cathredral Rooftop (Left Side)
-
-- Go to The Reliquary (Bottom Right)
-
-### The Reliquary (39-49)
-
-- Get Waypoint
-
-- Click 3x Karui Relic Case
-  - Loot 3x Kitava's Torments
-
-- Waypoint to Overseer's Tower
-
-### Overseer's Tower
-
 - Talk to Lani
+  - Take Spreading Rot Jewel
+  - Take Stibnite Flask
+    2x Life | 2x Quicksilver | Stibnite
+  
+- Talk to Vilenta 
   - Take Book of Skill
 
-- Go into Town Portal
+- Waypoint to The Ruined Square
 
 ### The Ruined Square (39-49)
 
@@ -1027,11 +886,21 @@
 
 ### Lioneye's Watch
 
-- Have around 1750 Life
+- Have around 1119 Life
 
 - Get Resistance Capped
 
 - Go to The Twilight Strand
+
+### The Twilight Strand (40-50)
+
+- Kill All Enemies
+
+- Exit Server
+
+### Lioneye's Watch
+
+- Go to The Coast
 
 ### The Coast (40-50)
 
@@ -1047,36 +916,9 @@
 ### The Karui Fortress (41-51)
 
 - Go to Tukohama's Keep
-
-- Kill Tukohama
+  - Kill Tukohama
 
 - Go to The Ridge
-
-### The Ridge (41-51)
-
-- Get Waypoint
-
-- Place Town Portal
-
-### Lioneye's Watch
-
-- Go to The Twilight Strand
-
-### The Twilight Strand (40-50)
-
-- Kill All Enemies
-
-- Exit Server
-
-### Lioneye's Watch
-
-- Talk to Lilly Roth
-  - Take Book of Regret
-
-- Talk to Tarkleigh
-  - Get Book of Skill
-
-- Waypoint to The Ridge
 
 ### The Ridge (41-51)
 
@@ -1105,14 +947,11 @@
 ### Lioneye's Watch
 
 - Talk to Tarkleigh
-  - Take ???? Helmet
+  - Take 
   
 - Waypoint to Prisoner's Gate
 
 ### Prisoner's Gate (42-52)
-
-- Go into Valley of The Fire Drinker
-  - Kill The Cloven One
 
 - Go to The Western Forest
 
@@ -1125,27 +964,6 @@
 - Get Waypoint
 
 - Ding Level 44
-
-- Go to The Wetlands
-
-### The Wetlands (42-54)
-
-- Go into The Spawning Ground
-  - Kill The Puppet Mistress
-
-- Exit Server
-
-### Lioneye's Watch
-
-- Talk to Bestel
-  - Take Book of Skill
-
-- Talk to Tarkleigh
-  - Take Book of Skill
-
-- Waypoint to The Riverways
-
-### The Riverways (42-54)
 
 - Go to The Southern Forest
 
@@ -1188,7 +1006,7 @@
 
 ### The Bridge Encampment
 
-- Have around 1200 Life
+- Have around 1413 Life
 
 - Go to The Broken Bridge
 
@@ -1327,18 +1145,6 @@
 - Talk to Weylam Roth
   - Get Book of Skill
 
-- Waypoint to Aspirants Plaza
-
-### Aspirants Plaza
-
-- Check [PoE Lab](https://www.poelab.com/) for layout
-
-- Do The Cruel Labyrinth
-
-- Return to Town
-
-### Lioneye's Watch
-
 - Waypoint to The Vaal City
 
 ### The Vaal City (48-60)
@@ -1369,7 +1175,7 @@
 
 ### The Sarn Encampment
 
-- Have around 1300 Life
+- Have around 1490 Life
 
 - Go to The Toxic Conduits
 
@@ -1383,72 +1189,17 @@
   - Go to The Cauldron
     - Kill Doedre the Vile
 
-- Go to Sewer Outlet
+- Go to The Grand Promenade
 
-- Go to The Quay
+### The Grand Promenade (50-62)
 
-### The Quay (51-63)
+- Go to The Bath House
 
-- Click Sealed Casket
-  - Loot Ankh of Eternity
+### The Bath House (51-63)
 
-- Go to Resurrection Site
+- Do Trial of Ascendancy
 
-- Kill Tolman
-
-- Go to The Grain Gate
-
-### The Grain Gate (51-63)
-
-- Get Waypoint
-
-- Kill The Gemling Legion
-
-- Go to The Imperial Fields (Follow dead bodies)
-
-### The Imperial Fields (52-64)
-
-- Go to The Solaris Temple Level 1
-
-### The Solaris Temple Level 1 (53-65)
-
-- Get Waypoint
-
-- Go to The Solaris Temple Level 2
-
-### The Solaris Temple Level 2 (53-65)
-
-- Click Portal
-
-- Kill Dawn, Harbinger of Solaris
-  - Loot Sun Orb
-
-- Exit Server
-
-### The Sarn Encampment
-
-Talk to Maramoa
-  - Take Book of Skill
-
-Talk to Hargan
-  - Take Ring
-  
-Talk to Clarissa
-  - Take Book of Skill
-  
-- Waypoint to The Solaris Temple
-
-### The Solaris Temple Level 1 (53-65)
-
-- Go to The Solaris Concourse
-
-### The Solaris Concourse (52-64)
-
-- Ding Level 52
-
-- Go to The Harbour Bridge
-
-### The Harbour Bridge (54-66)
+- Ding Level 51
 
 - Go to The Lunaris Concourse
 
@@ -1477,25 +1228,42 @@ Talk to Clarissa
 
 ### The Lunaris Concourse (52-64)
 
-- Go to The Bath House
+- Go to The Harbour Bridge
 
-### The Bath House (51-63)
+### The Harbour Bridge (54-66)
 
-- Do Trial of Ascendancy
+- Go to The Solaris Concourse
 
-- Ding Level 51
+### The Solaris Concourse (52-64)
 
-- Go to The High Gardens
+- Ding Level 52
 
-### The High Gardens (53-65)
+- Go to The Solaris Temple Level 1
 
-- Go to The Pools of Terror
-  - Kill Yugul, Reflection of Terror
+### The Solaris Temple Level 1 (53-65)
+
+- Go to The Solaris Temple Level 2
+
+### The Solaris Temple Level 2 (53-65)
+
+- Click Portal
+
+- Kill Dawn, Harbinger of Solaris
+  - Loot Sun Orb
 
 - Exit Server
 
 ### The Sarn Encampment
 
+Talk to Maramoa
+  - Take Book of Skill
+
+Talk to Hargan
+  - Take Ring
+  
+Talk to Clarissa
+  - Take Book of Skill
+  
 - Waypoint to The Lunaris Concourse
 
 ### The Lunaris Concourse (52-64)
@@ -1520,6 +1288,8 @@ The Blood Aqueduct (55-67)
 
 ### Highgate
 
+- Have around 1900 Life
+
 - Go to The Descent
 
 ### The Descent (55-67)
@@ -1527,43 +1297,6 @@ The Blood Aqueduct (55-67)
 - Click Supply Hoist
 
 - Go to The Vastiri Desert
-
-### The Vastiri Desert (55-67)
-
-- Get Waypoint
-
-- Click Storm Weathered Chest
-  - Loot Storm Blade
-
-- Find the Sandstorm
-
-- Exit Server
-
-### Highgate
-
-- Talk to Sin
-
-- Talk to Petarus and Vanja
-
-- Waypoint to The Vastiri Desert
-
-### The Vastiri Desert (55-67)
-
-- Go to The Oasis
-
-### The Oasis (55-67)
-
-- Go to The Sand Pit
-  - Kill Shakari, Queen of the Sands
-  
-- Exit Server
-
-### Highgate
-
-- Talk to Irasha
-  - Take Book of Skill
-
-- Waypoint to The Vastiri Desert
 
 ### The Vastiri Desert (55-67)
 
@@ -1619,21 +1352,6 @@ The Blood Aqueduct (55-67)
 
 ### The Quarry (57-69)
 
-- Go to Shrine of the Winds
-  - Kill Kira
-    - Loot Sekhema Feather
-
-- Exit Server
-
-### Highgate
-
-- Talk to Irasha
-  - Take Book of Skill
-
-- Waypoint to The Quarry
-
-### The Quarry (57-69)
-
 - Talk to Sin
   - Go to The Belly of the Beast
 
@@ -1664,7 +1382,7 @@ The Blood Aqueduct (55-67)
 
 ### Oriath Docks
 
-- Have around 2150 Life
+- Have around 1922 Life
 
 - Go to The Cathedral Rooftop
 
@@ -1681,62 +1399,7 @@ The Blood Aqueduct (55-67)
 
 ### The Ravaged Square (57-71)
 
-- Go to The Control Blocks (Down/Left)
-
-### The Control Blocks (59-73)
-
-- Get Waypoint
-
-- Go to Arena
-  - Kill Vilenta
-
-- Exit Server
-
-### Oriath Docks
-
-- Talk to Lani
-  - Take ???? Flask
-  - Take Book of Skill
-
-- Waypoint to The Control Blocks
-
-### The Control Blocks (59-73)
-
-- Go to The Ravaged Square
-
-### The Ravaged Square (57-71)
-
-- Get Waypoint (Up/Right)
-
-- Go to The Ossuary
-
-### The Ossuary (60-74)
-
-- Go to The Bone Pits
-
-- Do Trial of Ascendancy
-
-- Exit Server
-
-### Oriath Docks
-
-- Waypoint to Aspirants Plaza
-
-### Aspirants Plaza
-
-- Check [PoE Lab](https://www.poelab.com/) for layout
-
-- Do The Merciless Labyrinth
-
-- Return to Town
-
-### Oriath Docks
-
-- Waypoint to The Ravaged Square
-
-### The Ravaged Square (57-71)
-
-- Go to The Torched Courts (Up/Right)
+- Go to The Torched Courts
 
 ### The Torched Courts (58-72)
 
