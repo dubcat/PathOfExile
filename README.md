@@ -41,9 +41,9 @@
 
 - Caustic Arrow > Pierce Support (For Clear) | (G-G)
 
-- Burning Arrow (For Single Target) | (G)
-
 - Explosive Trap > Lesser Poison Support  | (G-G)
+
+- Burning Arrow (For Single Target) | (G)
 
 ### The Coast (1-5)
 
@@ -83,7 +83,6 @@
   - Take Swift Assembly Support
   - Buy Puncture
   - Buy Arcane Surge
-  - Buy Steelskin
 
    2x Life | Quicksilver | 2x Mana
 
@@ -97,7 +96,8 @@
 #### Gem Links
 
 - Swap Burning Arrow with Puncture | (G)
-- Explosive Trap > Lesser Poison Support > Swift Assembly Support | (G-G-G)
+- Explosive Trap > Swift Assembly Support > Lesser Poison Support | (G-G-G)
+- Frostblink > Arcane Surge (B-B)
 
 ### The Submurged Passage (2-8)
 
@@ -136,7 +136,7 @@
 - Talk to Nessa
   - Take Void Manipulation
   - Buy Flame Dash
-  - Buy Withering Step
+  - Buy Blastchain Mine
 
 - Talk to Tarkleigh
   - Take Smoke Mine
@@ -146,7 +146,8 @@
 #### Gem Links
 
 - Caustic Arrow > Pierce Support > Void Manipulation Support (For Clear) | (G-G-G)
-- Swap Frostblink with Smoke Mine | (B) to (G)
+
+- Swap Frostblink with Smoke Mine | (B-B) to (G-B)
 
 ### Prisoner's Gate (7-13)
 
@@ -182,6 +183,12 @@
   - Buy Toxic Rain
 
 - Waypoint to The Southern Forest
+
+#### Gem Links
+
+- Caustic Arrow > Pierce Support > Void Manipulation Support | (G-G-G)
+
+- Toxic Rain > Blastchain Mine > Swift Assembly | (G-G-B)
 
 ## Act 2
 
