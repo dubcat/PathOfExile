@@ -506,6 +506,8 @@
   - Take Jade Amulet
   - Take Infernal Talc
 
+- Get Craft in the next room
+
 - Waypoint to The Sewers
 
 ### The Sewers (22-30)
