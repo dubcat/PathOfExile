@@ -417,9 +417,11 @@
 
 ### The Sarn Encampment
 
+- Talk to Maramoa
+  - Take Despair
+
 - Talk to Clarissa
   - Get Sewer Key
-  - Take Despair
   - Buy 2x Spellslinger
   - Buy Bane
 
