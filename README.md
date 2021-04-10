@@ -495,6 +495,9 @@
 
 ### The Sarn Encampment
 
+- Talk to Hargan
+  - Take Book of Skills
+
 - Waypoint to The Solaris Temple Level 2
 
 ### The Solaris Temple Level 2 (24-32)
