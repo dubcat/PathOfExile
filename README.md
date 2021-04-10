@@ -598,10 +598,10 @@
 ### The Library (30) (26-34)
 
 - Talk to Siosa
+  - Take Second Wind
   - Buy 2x Efficacy
   - Buy 1x Spell Totem
   - Buy 2x Swift Affliction
-  - Buy 1x Second Wind
 
 - Waypoint to The Imperial Garden
 
