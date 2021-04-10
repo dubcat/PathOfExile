@@ -590,8 +590,7 @@
 ### The Sarn Encampment
 
 - Go to Stash
-  - Take 5x Orb of Chance
-  - Take 1x Orb of Transmutation
+  - Take 3x Orb of Transmutation
   
 - Waypoint to The Library
 
@@ -601,7 +600,6 @@
   - Take Second Wind
   - Buy 2x Efficacy
   - Buy 1x Spell Totem
-  - Buy 2x Swift Affliction
 
 - Waypoint to The Imperial Garden
 
