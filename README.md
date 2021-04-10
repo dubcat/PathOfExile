@@ -503,7 +503,7 @@
 ### The Solaris Temple Level 2 (24-32)
 
 - Talk to Lady Dialla
-  - Take Onyx Amulet
+  - Take Jade Amulet
   - Take Infernal Talc
 
 - Waypoint to The Sewers
