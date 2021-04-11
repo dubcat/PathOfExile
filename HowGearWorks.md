@@ -58,6 +58,67 @@ Defences
   - Damage Avoidance
 
 - Damage Reduction
+  - Like Fortify + Fortify Effect
+
+Damage Type Examples
+
+- Attack
+  - Melee Attack
+  - Ranged Attack
+
+- Spell
+  - Targeted Spell
+  - AoE Spell
+
+- Damage over Time
+  - Ignite
+  - Poison
+
+- Area
+
+- Elemental
+  - Fire
+  - Cold
+  - Lightning
+
+- Non-Elemental Ailments
+  - Bleed
+  - Poison
+
+- Chaos
+
+- Projectile
+
+- Mine
+
+- Trap
+
+- Minion
+  - Only affected by stats that say “Minion”. Does not include “Increased Damage”
+
+- Totem
+
+- Brand
+
+- Increased Damage
+  - Both generic and specific
+    - Spell
+    - Attack
+    - Elemental
+    - With X-Handed Weapons
+
+- Melee
+
+- Unarmed
+
+- Weapon Specific Keywords
+  - Claws, Daggers, Bows, One-Handed Weapons etc
+
+- Damage Conversion Chain
+  - Always Physical -> Lightning -> Cold -> Fire -> Chaos
+
+
+
 
 
 - 
@@ -65,4 +126,5 @@ Defences
   - 
   - 
   - 
+
     - 
