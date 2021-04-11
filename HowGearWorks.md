@@ -50,16 +50,14 @@ Defences
 
 - Avoidance
   - Ailments
-    - Chill, Freeze, Brittle - Shock, Sap - Ignite, Scorch - Poison, Bleed
+    - Chill, Freeze, Brittle
+    - Shock, Sap
+    - Ignite, Scorch
+    - Poison, Bleed
   - Stun
   - Damage Avoidance
 
 - Damage Reduction
-  - 
-  - 
-  - 
-  - 
-
 
 
 - 
