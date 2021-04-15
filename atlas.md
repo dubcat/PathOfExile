@@ -50,10 +50,6 @@
 
 - Get 2 Watchstones in Lira Arthain
 
-- Remove Watchstones from Lex Ejoris
-
-- Remove Watchstones from Lira Arthain
-
 - Socket 4 Watchstones into New Vastir
 
 - Socket 4 Watchstones into Haewark Hamlet
