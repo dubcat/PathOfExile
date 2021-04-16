@@ -61,3 +61,113 @@
 - Get 1 Watchstones in Lex Ejoris
 
 - Get 1 Watchstones in Lira Arthain
+
+## Atlas Talent Points
+
+# The Uncharted Relms
+
+- Adept Tracker
+- Atlas Awakened
+- Remnants of the Past
+- Enduring Influence
+- Close Allies
+- Secrets of the Stones
+
+- Awakener 6/7 Strategy
+
+# Haewark Hamlet
+
+- Controlled Corruption
+- Amplified
+- Focussed Investigation
+- Intelligence Gathering
+- Bribery
+
+- Use Essence Watchtones
+- Tripple Favor Atoll Map
+
+# Tirn's End
+
+- Underground Kingdom
+- Lightless Legion
+- Buried Riches
+- Tresspassers
+- Exotic Goods
+
+- When done with Stygian Vise, respec to
+- That Which You Seek
+- The Singular Eternity
+- Greater Forces
+
+- Use Incursion Watchtones
+- Tripple Favor Mesa Map
+
+# Lex Proxima
+
+- Bumper Crop
+- Heart of the Grove
+- Bountiful Harvest
+- Gatekeepers
+- Within Their Grasp
+
+- Use Harvest Watchtones
+- Tripple Favor Park Map
+
+# Glennach Cairns
+
+- Twice Tempted
+- Tamper-Proof
+- Monumental
+- Face to Face
+- High Value Targets
+
+- When done with Strongboxes, respec to Alva
+- Resource Reallocation
+- Contested Development
+
+- Use Quantity Watchtones
+- Tripple Favor Iceberg map
+
+# Lex Ejoris
+
+- Pathological
+- Persecutory Delusion
+- Compulsive Hoarder
+- Prospero's Promise
+- Friend of the Family
+
+- Use  Watchtones
+- Tripple Favor 
+
+# Lira Arthain
+
+- Secret Stash
+- Inside Job
+- Animal Companion
+- Mighty Hunter
+- Natural Selection
+
+- Use  Watchtones
+- Tripple Favor Racecourse Map
+
+# Valdo's Rest
+
+- Ominous Arrival
+- Diplomatic Escort
+- Intrinsic Darkness
+- High Yield
+- Test of Loyalty
+
+- Use  Watchtones
+- Tripple Favor 
+
+# New Vastir
+
+- Total Anarchy
+- Rogue Trader
+- Abyssal Army
+- Votive Hoard
+- War Supplies
+
+- Use  Watchtones
+- Tripple Favor Siege Map
