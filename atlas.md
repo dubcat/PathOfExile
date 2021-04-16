@@ -1,4 +1,4 @@
-## 32 Watchstones Fresh
+# 32 Watchstones Fresh
 
 - Get to one of the Corners (Haewark Hamlet / Lex Ejoris / New Vastir / Lira Arthain)
 
@@ -62,9 +62,9 @@
 
 - Get 1 Watchstones in Lira Arthain
 
-## Atlas Talent Points
+# Atlas Talent Points
 
-# The Uncharted Relms
+## The Uncharted Relms
 
 - Adept Tracker
 - Atlas Awakened
@@ -75,7 +75,7 @@
 
 - Awakener 6/7 Strategy
 
-# Haewark Hamlet
+## Haewark Hamlet
 
 - Controlled Corruption
 - Amplified
@@ -86,7 +86,7 @@
 - Use Essence Watchtones
 - Tripple Favor Atoll Map
 
-# Tirn's End
+## Tirn's End
 
 - Underground Kingdom
 - Lightless Legion
@@ -102,7 +102,7 @@
 - Use Incursion Watchtones
 - Tripple Favor Mesa Map
 
-# Lex Proxima
+## Lex Proxima
 
 - Bumper Crop
 - Heart of the Grove
@@ -113,7 +113,7 @@
 - Use Harvest Watchtones
 - Tripple Favor Park Map
 
-# Glennach Cairns
+## Glennach Cairns
 
 - Twice Tempted
 - Tamper-Proof
@@ -128,7 +128,7 @@
 - Use Quantity Watchtones
 - Tripple Favor Iceberg map
 
-# Lex Ejoris
+## Lex Ejoris
 
 - Pathological
 - Persecutory Delusion
@@ -139,7 +139,7 @@
 - Use  Watchtones
 - Tripple Favor 
 
-# Lira Arthain
+## Lira Arthain
 
 - Secret Stash
 - Inside Job
@@ -150,7 +150,7 @@
 - Use  Watchtones
 - Tripple Favor Racecourse Map
 
-# Valdo's Rest
+## Valdo's Rest
 
 - Ominous Arrival
 - Diplomatic Escort
@@ -161,7 +161,7 @@
 - Use  Watchtones
 - Tripple Favor 
 
-# New Vastir
+## New Vastir
 
 - Total Anarchy
 - Rogue Trader
