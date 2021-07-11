@@ -589,7 +589,7 @@
   - Buy 3x Efficacy
   - Buy 1x Spell Totem
   - Buy 2x Swift Affliction
-  - Buy 1x Second Wind
+  - Buy 1x Immortal Call
 
 - Waypoint to The Imperial Garden
 
