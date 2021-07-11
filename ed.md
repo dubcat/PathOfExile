@@ -36,7 +36,7 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support (For Clear) | (G-G)
+- Caustic Arrow > Pierce Support (For Clear) | (G-G)
 
 - Burning Arrow (For Single Target) | (G)
 
@@ -143,7 +143,7 @@
 
 #### Gem Links
 
-- Caustic Arrow > Lesser Poison Support > Void Manipulation Support (For Clear) | (G-G-G)
+- Caustic Arrow > Pierce Support > Void Manipulation Support (For Clear) | (G-G-G)
 - Swap Frostblink with Smoke Mine | (B) to (G)
 
 ### Prisoner's Gate (7-13)
